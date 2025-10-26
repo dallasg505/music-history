@@ -64,7 +64,7 @@ JUMBOTRON
   width: 100%;
   justify-content: center;
   align-items: center;
-  background-size: 80% auto; 
+  background-size: cover; 
   background-repeat: no-repeat;
   opacity: 1;   
   color: white;
