@@ -14,11 +14,11 @@ PAGE SETUP
 /* Recommended palette for 1920s popular music */
 
 :root {
-  --onyx: #0E0E0E;            /* Deep onyx black – elegant and dramatic */
+  --onyx: #3B3B3B;            /* Adapted to very dark gray - easier on the eyes than onyx */
   --champagne-gold: #D4AF37;  /* Classic Art Deco metallic gold accent */
   --oxblood: #5A1A1A;         /* Rich oxblood red – evokes velvet & nightlife */
   --midnight-teal: #1B4D4F;   /* Dark teal – sophisticated with a jazz-age vibe */
-  --porcelain: #F4EDE4;       /* Warm ivory-porcelain – balances darker hues */
+  --porcelain: #E8E1D8;       /* Warm ivory-porcelain – balances darker hues */
   --graphite: #2E2E2E;        /* Soft charcoal grey – for subtle depth */
 
   /* Semantic assignments */
