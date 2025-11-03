@@ -4,9 +4,9 @@ position: 3
 author: Steven Carpenter, Ruthann Davis, Mikayla Fernandez, Lesbia Puerto Sorto
 layout: base
 date: 2025-11-03
-thumbnail: Oliver-Creole-Jazz-Band-Chicago-1923.jpg
+thumbnail: images/Oliver-Creole-Jazz-Band-Chicago-1923.jpg
 summary: Diving deep into the song "West End Blues" popularized by Louis Armstrong and His Hot Five
-header-image: Oliver-Creole-Jazz-Band-Chicago-1923.jpg
+header-image: images/Oliver-Creole-Jazz-Band-Chicago-1923.jpg
 header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
