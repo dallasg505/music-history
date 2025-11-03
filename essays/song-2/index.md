@@ -1,11 +1,11 @@
 ---
-title: Song 2
+title: Song 2 Dark is The Night, Cold is the Ground By Blind Willie Johnson
 position: 2
-author: Student Name
+author: Dallas Grassbaugh, Ashlynn Luna, Isabella (Bella)Allred
 layout: base
 date: 2025-10-21
 thumbnail: images/hot-notes-colors-2-purple.jpeg
-summary: Write the summary of your webpage here
+summary: Dark is The Night, Cold is The Ground By Blind Willie Johnson was a song of universal proportions. With no other song like it at its time this song expresses the pain and suffering humanity faces throughout their lives.
 header-image: images/hot-notes-colors-2-purple.jpeg
 header-title: 
 header-position: 0px
