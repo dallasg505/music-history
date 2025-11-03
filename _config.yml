@@ -1,5 +1,5 @@
 baseurl: /music-history/
-repository: amaranth-unm/music-history
+repository: jakemohr-beep/music-history
 defaults:
   - scope:
       path: ""
