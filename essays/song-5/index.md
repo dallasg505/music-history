@@ -1,5 +1,5 @@
 ---
-title: T for Texas
+title: Blue Yodel No. 1 (T for Texas)
 position: 5
 author: Student Name
 layout: base
@@ -17,7 +17,7 @@ tags:
     - campus
 ---
 
-# A Page for Group Five's Song
+# Blue Yodel No. 1 (T for Texas)
 This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
 
 Most of the text is just dummy text to keep the focus on the page elements.
