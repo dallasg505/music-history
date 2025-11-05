@@ -75,18 +75,11 @@ place in musical history.
 
 
 
+## Political Climate for Bessie Smith
+Known as the era for the most social change and resistance in america the 1920s, often referred to as the roaring twenites, saw strict segregation, rampaging racism, and yet an enduring flowering of the African American culture. At the lowest level we can see the imagery of the Jazz age, emerging from the post-emancipation era. Author and scholar angelea davis observed “The historical context within which the blues developed a tradition of openly addressing both female and male sexuality reveals an ideological framework that was specifically African-American.” Often reflecting the new freedom and social realities of black culture, women in particular were captured after slavery. These themes were ofren caries intot he afriacne american audien and artists who were navigation the complexities of economic hardship and the social shift occurring in the 1920s.
+
 ## Intended Audience
 The intended audience is the African American culture. It is considered a blues song, which was a part of the African American culture at the time. It is reflecting on the hardships that they had to go through during that time. It eventually happened to move over to the white culture. There was a breakthrough for the era that was important in a certain time and period for African Americans. The composer of the song is W. C. Handy. This led to the working class listening to and enjoying this type of music, including her song. In the 1920s there was a variety in the musical landscape; the “St. Louis Blues” was placed among the top for the interaction of race, gender, and most definingly class, and it even created a market for African Americans spearheaded by Bessie Smith referred to as the “race records.” Further curating the blues craze around the early 1920s, Bessie Smith rose to fame and ended up being the highest-paid black entertainer of her day; this, as you would imagine, would challenge racial and gender limitations. Setting her performance style asserted bold independence and resilience and commanded the respect of the society and, most importantly, the working class. Focusing her basis on the middle class, Bessie Smith almost created an honest and grounded emotional approach that allowed her to connect to a broader audience that naturally rejected higher-class/elite phonemes. 
-
-
-
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
-
 
 ## Morbi posuere lacinia
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
