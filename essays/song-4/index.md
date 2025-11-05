@@ -4,7 +4,7 @@ position: 4
 author: Student Name
 layout: base
 date: 2025-10-21
-thumbnail: essays/song-4/images/1761596419.17553.jpg
+thumbnail: images/1761596419.17553.jpg
 summary: Write the summary of your webpage here
 header-image: images/hot-notes-colors-4-yellow.jpeg
 header-title: 
