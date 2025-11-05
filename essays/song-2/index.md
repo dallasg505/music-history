@@ -18,7 +18,6 @@ tags:
 ---
 
 # Dark Wass The Night, Cold Was The Ground
-![Blind Willie Johnson] (essays/song-2/images/Blind Willie.jpg.jpg) 
 This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
 
 Most of the text is just dummy text to keep the focus on the page elements.
@@ -27,7 +26,8 @@ Most of the text is just dummy text to keep the focus on the page elements.
 ## Second heading
 {% include figure.html 
 class="center"
-caption="Blind Willie Johnson Playing Dark . <iframe width="560" height="315" src="https://www.youtube.com/embed/EWw2X_yVcf8?si=gTwn7i04b99triST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>%}
+caption="Blind Willie Johnson Playing Dark Was The Night, Cold Was The Ground"%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EWw2X_yVcf8?si=gTwn7i04b99triST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
 
