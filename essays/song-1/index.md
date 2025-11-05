@@ -26,7 +26,7 @@ produced countless sorrowful, country-esque songs, and one of the most famous is
 Louis Blues” performed by Bessie Smith.
 
 
-## Second heading
+## Impact of Harlem Renaissance 
 {% include figure.html 
 class="right" 
 width="48%" 
@@ -34,7 +34,8 @@ caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Sour
 image-path="images/mvh-history-stays.jpg" 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
+The Harlem Renaissance Era was the start of this music genre. This was a huge movement back in the 1900s. It gave the African American people a way to express their music and what they wanted to sing. The history behind this was being able to socially and culturally express themselves in the ways that they want to do and show themselves publicly as freed members of society. There was a huge outbreak of this culturally, and it had an impact that has lasted till today. The Great Depression also had an impact on this era. The Harlem Renaissance was known for its literary and performing arts. It paved the way for African American artists and performers today being able to express themselves. It was a way to link themselves to their African American heritage. Art that was presented and made during this era was an aspect of what their heritage is. The Jim Crow laws had a hold on this and drove racism and diminished the work that they had done. People of different cultures didn’t view it as art that was acceptable to be viewed as “art” at the time. The art was very particular to their culture and what they wanted to be represented as. 
+
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 
