@@ -81,9 +81,8 @@ Known as the era for the most social change and resistance in america the 1920s,
 ## Intended Audience
 The intended audience is the African American culture. It is considered a blues song, which was a part of the African American culture at the time. It is reflecting on the hardships that they had to go through during that time. It eventually happened to move over to the white culture. There was a breakthrough for the era that was important in a certain time and period for African Americans. The composer of the song is W. C. Handy. This led to the working class listening to and enjoying this type of music, including her song. In the 1920s there was a variety in the musical landscape; the “St. Louis Blues” was placed among the top for the interaction of race, gender, and most definingly class, and it even created a market for African Americans spearheaded by Bessie Smith referred to as the “race records.” Further curating the blues craze around the early 1920s, Bessie Smith rose to fame and ended up being the highest-paid black entertainer of her day; this, as you would imagine, would challenge racial and gender limitations. Setting her performance style asserted bold independence and resilience and commanded the respect of the society and, most importantly, the working class. Focusing her basis on the middle class, Bessie Smith almost created an honest and grounded emotional approach that allowed her to connect to a broader audience that naturally rejected higher-class/elite phonemes. 
 
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
-
+## The Impact
+The song was instantly popular at the time, becoming the second most recorded song of the 20th century, after “Silent Night.” It likely resonated with people due to the collective feeling of heartbreak that everyone experiences at some point throughout their life.
 
 ## Bibliography
 
