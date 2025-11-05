@@ -1,5 +1,5 @@
 ---
-title: Song 4
+title: Crazy Blues
 position: 4
 author: Student Name
 layout: base
