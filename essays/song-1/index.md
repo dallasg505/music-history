@@ -39,7 +39,7 @@ The Harlem Renaissance Era was the start of this music genre. This was a huge mo
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+The Blues Era began in the 19th century in the Mississippi Delta. It was primarily sung by African Americans and incorporated their culture. It emphasized higher notes and more upbeat tunes. Normally known as “blues notes,” using a fiddle, harmonica, and guitar. It was to sing about the hardships of the South and what they were going through during that time period. This slowly progressed to using electric guitar and drums. This era was the blueprint for songs and genres today. It has a big influence on popular music. There were lots of songs that have repeated lyrics, usually to make a point. 
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
