@@ -55,17 +55,15 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 The Great Depression put a hold on Smith's short career, making her last recording in 1933. By the time she was twenty-four, she was singing solo acts and was performing throughout the South and East Coast. She sadly passed away on September 26, 1936, from her injuries in an automobile accident. Smith was a powerful woman for this era and generations to come. Her challenging experiences inspire the emotion that she brings into her music. It is sorrowful and melancholic, and it resonated deeply with her listeners. Although she was known as a paramount figure in the blues genre, Bessie Smith wasn't the only one to contribute to her success; in fact, She was accompanied by a small ensemble that included fellow famous artists like a young Louis Armstrong and Fred Longshaw on the harmonium. In conjunction with these personal styles, Smith and Armstrong are able to create the deeply notable blues song “St. Louis Blues,” which is often regarded as the finest version of the song. Most likely, Bessie Smith and her song, “St. Louis Blues,” are at the hand of multiple artists and a collective collaboration that would suggest it was more of a band than a solo act. 
 
 
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-
-## Intended Audience
-{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+### Intended Audience
 
 The intended audience is the African American culture. It is considered a blues song, which was a part of the African American culture at the time. It is reflecting on the hardships that they had to go through during that time. It eventually happened to move over to the white culture. There was a breakthrough for the era that was important in a certain time and period for African Americans. The composer of the song is W. C. Handy. This led to the working class listening to and enjoying this type of music, including her song. In the 1920s there was a variety in the musical landscape; the “St. Louis Blues” was placed among the top for the interaction of race, gender, and most definingly class, and it even created a market for African Americans spearheaded by Bessie Smith referred to as the “race records.” Further curating the blues craze around the early 1920s, Bessie Smith rose to fame and ended up being the highest-paid black entertainer of her day; this, as you would imagine, would challenge racial and gender limitations. Setting her performance style asserted bold independence and resilience and commanded the respect of the society and, most importantly, the working class. Focusing her basis on the middle class, Bessie Smith almost created an honest and grounded emotional approach that allowed her to connect to a broader audience that naturally rejected higher-class/elite phonemes. 
+
+
+## 
+{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+
+
 
 
 ## Praesent libero mi
