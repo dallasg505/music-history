@@ -31,13 +31,7 @@ caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Sour
 image-path="images/mvh-history-stays.jpg" 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
-
-[^1]: 'This is the footnote text. But I _really want_ italics.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+During the 1920s, many people were immigrating north, and a lot of jobs were opening up in the north due to the rapid industrial growth. The great northern migration. The South is still recovering after the Civil War, even now, and more and more people are moving north. Many industries are starting to boom, such as the meat factories in Chicago, steel plants in places like Detroit and Pittsburgh. As well, prohibition had just started and would last another 13 years. This was the result of a larger modesty movement that gained popularity across America in response to changing environments, like the massive number of immigrants coming to America. 
 
 
 ## Donec odio elit
