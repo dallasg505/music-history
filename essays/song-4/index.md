@@ -42,8 +42,6 @@ Crazy Blues was one of the first songs ever recorded and put on radio stations, 
 {% include aside.html class="right" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
 
 ### What Makes Blues? What are Blues?
 
@@ -78,16 +76,19 @@ While some people think “Crazy Blues” is about a personal heartbreak, others
 
 
 
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
-
-
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+-Sources
+https://libproxy.unm.edu/login?url=https://www.proquest.com/iimpft/magazines/blues-forms/docview/198708589/sem-2?accountid=14613
+The Roots and Impact of African American Blues Music by Emily Weiler (Whitworth University)
+https://www.rollingstone.com/music/music-news/the-rolling-stone-interview-jim-morrison-73308/
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+SMITH, ROGER. “In 1920, Mamie Smith’s Crazy Blues paved the way for Black music.” The Syncopated Times (2020)
+https://syncopatedtimes.com/in-1920-mamie-smiths-crazy-blues-paved-the-way-for-black
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+DOYLE, RODGER. “The Great Migration.” Scientific American 290, no. 2 (2004): 25–25. http://www.jstor.org/stable/26047584. 
+ https://blackpast.org/african-american-history/smith-mamie-1883-1946/ 
+https://www.loc.gov/resource/sn83035387/1923-11-17/ed-1/?sp=4&q=Mamie+Smith&r=0.039,0.412,0.446,0.197,0 
+Gussow, Adam. “‘Shoot Myself a Cop’: Mamie Smith’s ‘Crazy Blues’ as Social Text.” Callaloo 25, no. 1 (2002): 8–44. http://www.jstor.org/stable/3300383. 
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+
