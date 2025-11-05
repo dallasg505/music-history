@@ -6,7 +6,7 @@ layout: base
 date: 2025-10-21
 thumbnail: images/1761596419.17553.jpg
 summary: Write the summary of your webpage here
-header-image: images/hot-notes-colors-4-yellow.jpeg
+header-image: essays/song-4/images/sddefault.jpg
 header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
