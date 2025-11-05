@@ -50,9 +50,13 @@ Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibul
 
 {% include aside.html class="right" text="
 -[West End Blues - King Oliver and His Dixie Syncopaters (1928)](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
+
 -[West End Blues - Louis Armstrong and His Hot Five (1928)](https://www.youtube.com/watch?v=pXHdqTVC3cA)
+
 -[West End Blues - Ethel Waters and Clarence Williams (1928)](https://www.youtube.com/watch?v=jU_OaIQpnxA)
+
 -[West End Blues - Clarence Williams, King Oliver, and Hazel Smith (1928)](https://www.youtube.com/watch?v=xK69BgJl42Y)
+
 -[West End Blues - Fred Hall’s Jazz Band (1928)](https://www.youtube.com/watch?v=z9hxwofOja0)
 " %}
 
