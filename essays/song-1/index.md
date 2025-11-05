@@ -55,21 +55,28 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 The Great Depression put a hold on Smith's short career, making her last recording in 1933. By the time she was twenty-four, she was singing solo acts and was performing throughout the South and East Coast. She sadly passed away on September 26, 1936, from her injuries in an automobile accident. Smith was a powerful woman for this era and generations to come. Her challenging experiences inspire the emotion that she brings into her music. It is sorrowful and melancholic, and it resonated deeply with her listeners. Although she was known as a paramount figure in the blues genre, Bessie Smith wasn't the only one to contribute to her success; in fact, She was accompanied by a small ensemble that included fellow famous artists like a young Louis Armstrong and Fred Longshaw on the harmonium. In conjunction with these personal styles, Smith and Armstrong are able to create the deeply notable blues song “St. Louis Blues,” which is often regarded as the finest version of the song. Most likely, Bessie Smith and her song, “St. Louis Blues,” are at the hand of multiple artists and a collective collaboration that would suggest it was more of a band than a solo act. 
 
 
-### Intended Audience
+### Louie armstong's Influence
 
-The intended audience is the African American culture. It is considered a blues song, which was a part of the African American culture at the time. It is reflecting on the hardships that they had to go through during that time. It eventually happened to move over to the white culture. There was a breakthrough for the era that was important in a certain time and period for African Americans. The composer of the song is W. C. Handy. This led to the working class listening to and enjoying this type of music, including her song. In the 1920s there was a variety in the musical landscape; the “St. Louis Blues” was placed among the top for the interaction of race, gender, and most definingly class, and it even created a market for African Americans spearheaded by Bessie Smith referred to as the “race records.” Further curating the blues craze around the early 1920s, Bessie Smith rose to fame and ended up being the highest-paid black entertainer of her day; this, as you would imagine, would challenge racial and gender limitations. Setting her performance style asserted bold independence and resilience and commanded the respect of the society and, most importantly, the working class. Focusing her basis on the middle class, Bessie Smith almost created an honest and grounded emotional approach that allowed her to connect to a broader audience that naturally rejected higher-class/elite phonemes. 
+Prior to recording “St. Louis Blues”, Louis Armstrong was a famous singer and trumpet
+player who rose to fame during the Roaring Twenties. Armstrong was born in 1900 in the violent
+Battlefield of New Orleans. Similarly to Bessie Smith’s upbringing, Armstrong did not have a lot
+of money, and he was forced to drop out of school at fifth grade to start working to provide for
+himself and his family. On New Years Eve in 1912, he was arrested for firing a gun into the air,
+and he was sent to the Colored Waif’s Home for Boys. It was here that he was taught how to play
+the cornet by his teacher and sparked his love of music and instruments. Armstrong is most
+famous for his mastery of the trumpet which he played while traveling throughout the South
+exploring multiple kinds of music, but primarily the blues genre. In 1925, Armstrong and Bessie
+Smith recorded Handy’s, “St. Louis Blues”. Their masterful creation quickly cemented their
+place in musical history.
 
 
-## 
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
 
 
 
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+## Intended Audience
+The intended audience is the African American culture. It is considered a blues song, which was a part of the African American culture at the time. It is reflecting on the hardships that they had to go through during that time. It eventually happened to move over to the white culture. There was a breakthrough for the era that was important in a certain time and period for African Americans. The composer of the song is W. C. Handy. This led to the working class listening to and enjoying this type of music, including her song. In the 1920s there was a variety in the musical landscape; the “St. Louis Blues” was placed among the top for the interaction of race, gender, and most definingly class, and it even created a market for African Americans spearheaded by Bessie Smith referred to as the “race records.” Further curating the blues craze around the early 1920s, Bessie Smith rose to fame and ended up being the highest-paid black entertainer of her day; this, as you would imagine, would challenge racial and gender limitations. Setting her performance style asserted bold independence and resilience and commanded the respect of the society and, most importantly, the working class. Focusing her basis on the middle class, Bessie Smith almost created an honest and grounded emotional approach that allowed her to connect to a broader audience that naturally rejected higher-class/elite phonemes. 
 
 
 
