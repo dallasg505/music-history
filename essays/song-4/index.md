@@ -23,7 +23,7 @@ This template shows a basic essay with a few images, captions, and section headi
 Most of the text is just dummy text to keep the focus on the page elements.
 
 
-## Second heading
+## Historical Context (1920s)
 {% include figure.html 
 class="right" 
 width="48%" 
