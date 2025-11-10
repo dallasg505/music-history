@@ -168,7 +168,7 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
    When the world heard the name, Jimmie Rodger's, they thought of resilience, they thought of joy through and through. They thought of the strong hearted man who wrote songs about love and loss. On October 20th, 1957, Jimmie Rodger's song "Honeycomb" was ranked 4th most popular disk jockey in Washington D.C (Evening Star, 1957, Image 107), mind you, this was 24 years after his death. His hits were so popular, that even today, you can find songs of his on Spotify, his listener's count being over 55 thousand people monthly. 
    
 
-   {% include figure.html class="right" width="60%" caption="Jimmie Rodgers on Spotify." image-path=" essays/song-5/images/spotify-jimmie.jpeg.jpg" %}
+{% include figure.html class="right" width="60%" caption="Jimmie Rodgers on Spotify. [Source](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN)" image-path="images/mvh-floorplan.jpg" %}
 
    Looking at Spotify still, we can see that out of all of Jimmie Rodgers albums, Honeycomb is not second, the first spot being taken over by Kisses Sweet than Wine, written by Campbell and Ray Gilbert! Although he isn't a top hit today, the fact that his songs are still relevant to this day is absolutely stunning! 
 
@@ -206,7 +206,5 @@ Image 107 of Evening star Links to an external site. - Evening Star, Newspaper, 
 
 Image 7 of Steward daily Links to an external site. - Steward daily getaway, Newspaper, October 22, 1934 (P)
 
-Image 11 of San Antonio Light Links to an external site. - The San Antonio Light, Newspaper, October 22, 1934 (P)
-
-300-350
+Image 11 of San Antonio Light Links to an external site. - The San Antonio Light, Newspaper, October 22, 1934 (P) 300-350
  
