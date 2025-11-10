@@ -45,12 +45,16 @@ Crazy Blues was one of the first songs ever recorded and put on radio stations, 
 
 -What's the time signature?
 Almost all blues are in 4/4. Some blues is played in 6/8 but can still be 12-bar blues. Most blues songs will be 12-bar and played in 4/4 time, but you can also find 8-bar blues in 4/4, 16-bar blues in 6/8, and more.
+
 -What defines the blues?
 The blues is tough to define as it takes on many forms, but at its core, it is always in 4/4, following some sort of progression that stresses I, IV, and V chords, most commonly using Dominant 7 chords. 
+
 -What is the progression and type of music
 The progression is traditionally a 12-measure repeated progression that utilizes the I, IV, and V chords (Usually the dominant 7). It begins with the I chord for 4 measures, followed by the IV chord for 2, and the I chord for 2 more, then 2 counts on the V chord and back to the I chord for 2 measures. This is called the 12-bar blues. There are other forms of blues other than 12-bar, including the less popular 8-bar blues, 16-bar blues, and 10-bar blues.
- -How is the music structured?
+
+-How is the music structured?
 The blues are traditionally built around the dominant 7, I, IV, and V chords in whatever key the artist is choosing to play. 
+
 - Is it coming from what traditions?
 The blues come from the end of the slave trade, around 1809. (The Roots and Impact of African American Blues Music, Emily Weiler. parg. 2) This came from the singing of several different songs from different parts of Africa. A lot of these songs came from things like the spiritual, working, and ceremonies, but eventually the blues turned into songs about love, loss and retained its themes of the spiritual as well as working.
 
