@@ -95,9 +95,6 @@ The late 1920s were part of the “Jazz Age,” marked by booming industrial gro
 The Great Migration brought many Black southerners to northern cities like Chicago, creating concentrated communities where jazz clubs and music venues could thrive. West End Blues emerges against this backdrop of opportunity and constraint, reflecting both the commercial potential of jazz and the social challenges faced by Black musicians and audiences (Harker 2011).
 
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
-
-
 ## Morbi posuere lacinia
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
