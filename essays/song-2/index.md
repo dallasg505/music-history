@@ -1,4 +1,4 @@
-
+---
 title: Song 2: Dark is The Night, Cold is the Ground By Blind Willie Johnson
 position: 2
 author: Dallas Grassbaugh, Ashlynn Luna, Isabella (Bella)Allred
@@ -23,7 +23,7 @@ This template shows a basic essay with a few images, captions, and section headi
 Most of the text is just dummy text to keep the focus on the page elements.
 
 
-## Second heading
+## Dark Was The Night,Cold Was The Ground
 {% include figure.html 
 class="center"
 caption="Blind Willie Johnson Playing Dark Was The Night, Cold Was The Ground"%}
@@ -38,11 +38,11 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
-## Donec odio elit
+## Historical Impact
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
 
 
-## Cras magna nunc
+## Blues and Gospel
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
 {% include aside.html class="right" text="
