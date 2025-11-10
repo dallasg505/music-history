@@ -25,7 +25,7 @@ Mamie Smith’s “Crazy Blues” was a song that changed African-American music
 {% include figure.html
   class="right"
   width="48%"
-  caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Source: https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml"
+  Source: https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml"
   image-path="Talking-Machine-Jan-1921.png"
 %}
 
@@ -59,7 +59,6 @@ The blues come from the end of the slave trade, around 1809. (The Roots and Impa
 {% include figure.html
   class="right"
   width="60%"
-  caption="Duis in sagittis arcu. Donec dictum aliquam congue."
   image-path="images/sddefault.jpg"
 %}
 
