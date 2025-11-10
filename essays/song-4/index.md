@@ -19,13 +19,13 @@ tags:
 
 # Introduction
 
-Mamie Smith’s “Crazy Blues” was a song that changed African-American music forever. It was the first blues song recorded by an African American woman in the United States. This was an important song because it ushered in race records and allowed music companies to see that there was profit to be made from black music like blues and jazz. This song was popular and launched Smith into stardom and a country-wide tour. “According to the shipping director at Okeh, 75,000 copies of “Crazy Blues” were distributed to Harlem record shops alone within the first 4 weeks after release.” (Gussow, 2) 
+Mamie Smith’s “Crazy Blues” was a song that changed African-American music forever. It was the first blues song recorded by an African American woman in the United States. This was an important song because it 
+ushered in race records and allowed music companies to see that there was profit to be made from black music like blues and jazz. This song was popular and launched Smith into stardom and a country-wide tour. “According to the shipping director at Okeh, 75,000 copies of “Crazy Blues” were distributed to Harlem record shops alone within the first 4 weeks after release.” (Gussow, 2) 
 
 ## Historical Context (1920s)
 {% include figure.html
   class="right"
   width="48%"
-  caption="Source: https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml"
   image-path="Talking-Machine-Jan-1921.png"
 %}
 
