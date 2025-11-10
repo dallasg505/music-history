@@ -159,13 +159,20 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
 
 ## How the world Responded
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+   "How did the world react to Jimmie Rodgers songs"
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+ 
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
+   "Mrs. Jimmie Rodgers, widow of the singer brakeman who became a national phenomenon and who died here last year..." writes The San Antonio Light Newspaper on October 22, in 1934. "His health broke down completely and he had to quit. All agreed that it was pretty tough for Jimmie...a lot of friends but no job and not enough strength to get and keep one. But Jimmie still wore the same old smile." was said in 1934, October 22nd by others at Steward daily getaway newspaper. 
 
+   When the world heard the name, Jimmie Rodger's, they thought of resilience, they thought of joy through and through. They thought of the strong hearted man who wrote songs about love and loss. On October 20th, 1957, Jimmie Rodger's song "Honeycomb" was ranked 4th most popular disk jockey in Washington D.C (Evening Star, 1957, Image 107), mind you, this was 24 years after his death. His hits were so popular, that even today, you can find songs of his on Spotify, his listener's count being over 55 thousand people monthly. image.png
 
+   Looking at Spotify still, we can see that out of all of Jimmie Rodgers albums, Honeycomb is not second, the first spot being taken over by Kisses Sweet than Wine, written by Campbell and Ray Gilbert! Although he isn't a top hit today, the fact that his songs are still relevant to this day is absolutely stunning! 
+
+   Although not directly Jimme Rodgers, the Bristol Sessions, which Jimmie was a part of, is facing some backlash. "...Sustained focus on the 1927 Bristol sessions..." which had appeared to "...neglect of other early “hillbilly” music stories" according to Ted Olson of the National Recording Registry in 2002! The Bristol sessions were a series of recordings done in 1927.
+
+    
+   Still, Rodgers has been a called a national phenomenon and considered still, one of the founder fathers, if not,                                                                                                 THE father of country music. 
 ## Morbi posuere lacinia
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
