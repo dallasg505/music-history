@@ -145,10 +145,20 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+ Rodgers, Carrie (1935). My Husband, Jimmie Rodgers. Ernest Tubb Publications.
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+Gioia, Joe. 2014. The Guitar and the New World: A Fugitive History. Albany: SUNY Press. 
+
+Daktar, Abraxas01. n.d. “Jimmie Rodgers – Blue Yodel No. 1 (T for Texas) Lyrics | Genius Lyrics.” Blue Yodel No. 1 (T for Texas) Lyrics. Accessed October 29, 2025. https://genius.com/Jimmie-rodgers-blue-yodel-no-1-t-for-texas-lyrics.
+
+On the trail of negro folk-songs : Scarborough, Dorothy, 1878-1935 : Free Download, Borrow, and Streaming : Internet Archive - Book Links to an external site.
+
+Image 22 of The Washington times (Washington [D.C.]), October 18, 1927 | Library of Congress Links to an external site.
+
+Image 7 of Seward daily gateway (Seward, Alaska), June 21, 1928 | Library of Congress Links to an external site.
+
+Image 11 of San Antonio light (San Antonio, Tex.), October 22, 1934, (HOME EDITION) | Library of Congress Links to an external site.
