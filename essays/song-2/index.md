@@ -1,5 +1,5 @@
 ---
-title: Song 2: Dark is The Night, Cold is the Ground By Blind Willie Johnson
+title: Song 2 Dark is The Night, Cold is the Ground By Blind Willie Johnson
 position: 2
 author: Dallas Grassbaugh, Ashlynn Luna, Isabella (Bella)Allred
 layout: base
