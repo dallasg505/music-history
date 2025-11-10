@@ -56,7 +56,7 @@ The blues come from the end of the slave trade, around 1809. (The Roots and Impa
 
 ## Crazy BLUES
 
-{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. <iframe width="560" height="315" src="https://www.youtube.com/embed/qaz4Ziw_CfQ?si=PKMRIUZwTDpg32_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}
 
 Crazy Blues goes from variates from 12 bar and 16-bar blues progressions. As Jim Morrison said, “I like singing blues… where there’s no specific beginning or end. It just gets into a groove and I can just keep making up things. And everybody’s soloing.” (Jim Morrison, 1969)
 “Crazy Blues” has some parts in 12-bar, and some parts in 16-bar while using syncopation
