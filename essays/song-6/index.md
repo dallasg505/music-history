@@ -46,25 +46,47 @@ tags:
 
 
 ## Rise of Country Music
-{% include figure.html 
-class="right" 
-width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" 
-image-path="images/mvh-history-stays.jpg" 
-%}
+
 
 The Carter Family’s success was heavily tied to the formation of country music, which was referred to as “hillbilly music” at this time, which was a term used to describe rural American folk music during the early 20th century. The music focused on a blend of older English and Irish ballads, as well as gospel hymns and string-band melodies that reflected upon their everyday experiences as members of the working class. Between the 1920s and World War II, the phrase “hillbilly” was dominant within popular culture, symbolizing the charm and hardships that came with rural life (McCulloh 1967).  
 The Carter Family’s role in transforming the sound of rural-american music was pivotal. Their ability to merge the heartfelt lyrics with high-quality production gave folk music a wider platform to the national audience. With the use of radio broadcasts and record sales, they became one of the first musical families who managed to reach millions of people across America, beyond their own communities, on a scale unseen before. They told stories through music, ones that had a universal feeling of love, faith, loss, and perseverance in which reflected upon the rural life in America.
 Between the 1920s - 1930s. Hillbilly sheet music and lyrics became a popular means of distributing music throughout the nation. This allowed the Carter Family to reach the homes of people beyond just radio broadcasts, but also allowed them to spread their music to people throughout the southern and midwestern United States (McCulloh 1967).
 The work of the Carter Family transformed the isolation of folk traditions, allowing for the creation of “country music”, replacing the term “hillbilly music” in the late 1940s (Birth Place of Country 2025). The inspiration the Carter Family provided the foundation for the genre, which was expanded upon by other artists such as Hank Williams, Johnny Cash, and a later generation of musicians who continue to uphold those original values and emotions that country music was built upon (Atkins 1975). Through their efforts, country music became a staple art form of America.
-
+<div style="text-align: center; margin-top: 30px;">
+  <img src="images/Lesley-Riddle.jpg" alt="Lesley Riddle" 
+       style="width: 80%; max-width: 700px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.25);">
+  <p style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Lesley Riddle, an influential guitarist and song collector who collaborated with A.P. Carter and helped preserve Appalachian musical traditions.
+  </p>
+</div>
 
 
 ## The Carter Scratch
  
-A black musician named Lesley Riddle was a great influence on the Carter Family. Riddle would accompany A.P. when he went out looking for music from time to time. If A.P. forgot melodies, he depended on Riddle to help him remember. He had his own songs that the family would later use and record, though he wasn’t paid for these songs. Along with writing his own music, Riddle played guitar, and Maybelle was greatly influenced by his style, which led to her distinct style of guitar playing (Malone 1975).
-With the rise in folk music, Mayabelle Carter created a unique guitar style called “The Carter Scratch”, which carried both Rhythm and Melody in their songs (NPR 2000). The Carter Scratch was done by playing the melody on the bass strings while also rhythmically strumming higher strings, allowing her to play both the lead and rhythm at the same time (Climer 2008). The Carter Scratch inspired many upcoming guitarists, defining the unique sounds associated with Folk/Country Music.
-During this period, the guitar was primarily used as a part of the background, rarely taking center stage during performances. Maybelle’s technique broke this tradition, turning the guitar into a rhythmic and melodic instrument and allowing her to accompany herself without needing a second musician. Following this revelation, the Carter Scratch became one of the most studied techniques throughout early folk music, with Maybelle being a major influence for upcoming artists. Beyond this innovation, the Carter Scratch became a symbol original to the Carter Family, one that blends tradition with creativity while continuing with its authenticity and honesty, a central theme of country and folk music (Atkins 1975).
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <img src="images/Maybelle-Gibson-CMHofFM-675x1024.jpg" alt="Maybelle Carter playing guitar" 
+       style="width: 280px; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.2);">
+
+  <div style="flex: 1;">
+    <p>
+      A black musician named Lesley Riddle was a great influence on the Carter Family. Riddle would accompany A.P. when he went out looking for music from time to time. 
+      If A.P. forgot melodies, he depended on Riddle to help remember. He had his own songs that the family would later use and record, though he wasn’t paid for these songs. 
+      Along with writing his own music, Riddle played guitar, and Maybelle was greatly influenced by his style, which led to her distinct style of guitar playing (Malone 1975).
+    </p>
+    <p>
+      With the rise in folk music, Mayabelle Carter created a unique guitar style called “The Carter Scratch”, which carried both rhythm and melody in their songs (NPR 2000). 
+      The Carter Scratch was done by playing the melody on the bass strings while also rhythmically strumming higher strings, allowing her to play both the lead and rhythm at 
+      the same time (Climer 2008). The Carter Scratch inspired many upcoming guitarists, defining the unique sounds associated with folk and country music.
+    </p>
+    <p>
+      During this period, the guitar was primarily used as a part of the background, rarely taking center stage during performances. Maybelle’s technique broke this tradition, 
+      turning the guitar into a rhythmic and melodic instrument and allowing her to accompany herself without needing a second musician. Following this revelation, the Carter Scratch 
+      became one of the most studied techniques throughout early folk music, with Maybelle being a major influence for upcoming artists. Beyond this innovation, the Carter Scratch 
+      became a symbol original to the Carter Family — one that blends tradition with creativity while continuing with its authenticity and honesty, a central theme of country and folk 
+      music (Atkins 1975).
+    </p>
+  </div>
+</div>
 
 
 ## “Wildwood Flower” and the Radio
@@ -90,10 +112,18 @@ The popularity of “Wildwood Flower” wasn't just an accident, but was the res
 The Carter family's rise in popularity at a national level could be attributed to the introduction of the radio, but also through touring, which furthered their popularity.
 Overall, the rise in fame of “Wildwood Flower” was caused by its ability to capture the human experiences and emotions through loss, resilience, and longing. The Carter Family didn't just preserve songs, but redefined them, creating a cornerstone for what became country music, a piece of American Cultural History. 
 
+
+
 ## The Lasting Impact
 A century following the Carter Family’s success, they continue to remain influential for the founding and creation of American music. Through their unique sounds, simplicity, and sincerity, they continue to inspire future artists to continue their messages throughout America. “Wildwood Flower” stands as the roots that created country music. The Carter Family played an essential role in the preservation of folk traditions as well, traveling across the South collecting songs, adapting them, and introducing them throughout the nation to continue their stories and legacies, not only being performers but also historians during their time (Malone 1975).
 As the years went on, the Carter Family went through changes. A.P. and Sarah eventually left the group, leaving Maybell and her three daughters to continue on the family tradition. Known as Mother Maybelle and the Carter Sisters: Helen, Anita, and June Carter. In the 1960s, the Carter Family began a musical partnership with Johnny Cash as they went on tours together.  Later on in 1968, June and Johny Cash married, further establishing their impact and legacy in country music (Malone 1975). In recognition of their historical importance in the formation of country music, the song was added to the Library of Congress Recording Registry in 2006 (Library of Congress 2006).
-
+<div style="text-align: center; margin-top: 30px;">
+  <img src="images/The-Carter-Family-Later-Years.jpg" alt="The Carter Family in their later years"
+       style="width: 80%; max-width: 700px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.25);">
+  <p style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    The Carter Family in their later years, continuing their legacy and influence on American folk and country music.
+  </p>
+</div>
 
 
 ## Bibliography
