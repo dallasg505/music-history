@@ -7,14 +7,14 @@ date: 2025-10-21
 thumbnail: images/
 summary: Write the summary of your webpage here
 header-image: images/Maybelle-A.P.-Sarah-Carter.jpg
-header-title:
+header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
 placename: New River Gorge National Park
 toc-section: first
 tags:
-  - history
-  - campus
+    - history
+    - campus
 ---
 
 ## The Carter Family
