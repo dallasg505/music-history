@@ -18,7 +18,7 @@ tags:
 ---
 
 # Dark Wass The Night, Cold Was The Ground By Blind Willie Johnson (1927)
-This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
+Dark is The Night, Cold is The Ground By Blind Willie Johnson was a song of universal proportions. With no other song like it at its time this song expresses the pain and suffering humanity faces throughout their lives.
 
 Most of the text is just dummy text to keep the focus on the page elements.
 
