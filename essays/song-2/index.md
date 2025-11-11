@@ -41,7 +41,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 ## Historical Impact
 Dark Was the Night, Cold Was the Ground by Blind Willie Johnson was made in 1927. This was a time when a lot was happening in America. There were many historical events that helped shape this song. Some major influence rooted in the fact that some people were still feeling the effects of World War Many African Americans were moving to new cities looking for better lives. All of this made people feel lonely, sad, and try to find hope at the same time.
-![Chicago Defender] essays/songs-2/History.jpeg
+Chicago Defender] essays/songs-2/History.jpeg
 The actual 1927 recording itself forces us to feel how people felt during that period. Johnson's slide guitar playing and humming voice express sadness and a kind of spiritual hope. That shows how hard the situation was for African Americans, like racism and poverty, especially those migrating to new cities (Johnson 1927). The song almost sounds like the pain of those who were struggling to hold on to faith in those hard times. Another source is The Chicago Defender, a newspaper that was published in the late 1920s and specifically addressed African American life. It discussed the racism, discrimination, and financial troubles African Americans faced at this time. For example, the Defender regularly reported on job discrimination and the struggle for civil rights, which contributes as to why music such as Johnson's contained both suffering and hope (The Chicago Defender 1928).
 
 
@@ -62,7 +62,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## Legacy
-![Voyager](/essays/song-2/Voyager1.jpeg'
+[![Voyager II](/essays/song-2/Voyager1.jpeg)
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
