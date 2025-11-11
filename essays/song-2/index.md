@@ -40,7 +40,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## Historical Impact
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+Dark Was the Night, Cold Was the Ground by Blind Willie Johnson was made in 1927. This was a time when a lot was happening in America. There were many historical events that helped shape this song. Some major influence rooted in the fact that some people were still feeling the effects of World War Many African Americans were moving to new cities looking for better lives. All of this made people feel lonely, sad, and try to find hope at the same time.
 
 
 ## Blues and Gospel
