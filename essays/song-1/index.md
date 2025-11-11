@@ -1,7 +1,7 @@
 ---
-title: Song 1
+Title: “St. Louis Blues” by Bessie Smith
 position: 1
-author: Student Name
+Authors: Lauren Duewall, Elizabeth Muirhead, M. Roman Ubias
 layout: base
 date: 2025-10-21
 thumbnail: images/hot-notes-colors-1-green.jpeg
