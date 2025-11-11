@@ -61,6 +61,7 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
   </p>
 </div>
 
+<div style="clear: both;"></div>
 
 ## The Carter Scratch
  
