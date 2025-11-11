@@ -7,15 +7,16 @@ date: 2025-10-21
 thumbnail: images/
 summary: Write the summary of your webpage here
 header-image: images/Maybelle-A.P.-Sarah-Carter.jpg
-header-title: 
+header-title:
 header-position: 0px
 geo: [37.88, -81.08]
 placename: New River Gorge National Park
 toc-section: first
 tags:
-    - history
-    - campus
+  - history
+  - campus
 ---
+
 ## The Carter Family
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 30px 0;">
   <div style="flex: 1;">
@@ -85,18 +86,19 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
       became a symbol original to the Carter Family — one that blends tradition with creativity while continuing with its authenticity and honesty, a central theme of country and folk 
       music (Atkins 1975).
     </p>
-  </div>
-</div>
-<div style="text-align:center; margin-top:30px;">
-  <iframe width="720" height="405"
-          src="https://www.youtube.com/embed/VIDEO_ID"
-          title="YouTube video player"
+
+  <div style="text-align:center; margin-top:30px;">
+  <iframe width="640" height="360"
+          src="https://www.youtube.com/embed/Xl_WWYQfUoQ"
+          title="The Carter Family - Wildwood Flower (1928)"
           frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+          style="max-width:100%; border-radius:10px;">
   </iframe>
   <p style="font-size:0.9em; color:#666; margin-top:8px;">
-    Video demonstration of Maybelle Carter’s “Carter Scratch” guitar technique.
+    Archival recording of <i>“Wildwood Flower” (1928)</i> performed by The Carter Family.
   </p>
 </div>
 
