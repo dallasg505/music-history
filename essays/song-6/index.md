@@ -199,7 +199,7 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 ## Bibliography
 
--Home | Carter Family Fold and music center. Accessed October 29, 2025. https://carterfamilyfold.org/. 
+- Home | Carter Family Fold and music center. Accessed October 29, 2025. https://carterfamilyfold.org/. 
 
 - Spottswood, Dick. “‘Wildwood Flower.’” NPR, December 14, 2000. https://www.npr.org/2000/12/14/1115495/wildwood-flower.
 
