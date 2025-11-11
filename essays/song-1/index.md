@@ -86,10 +86,34 @@ The song was instantly popular at the time, becoming the second most recorded so
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+Armstrong, Louis. 1954. Satchmo: My Life in New Orleans. Englewood Cliffs, NJ: Prentice-Hall, Inc. https://archive.org/details/satchmomylifeinn001956mbp/page/n169/mode/2up (accessed November 11, 2025). 
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+Beviglia, Jim. 2021. “Behind the Song: Bessie Smith, ‘St. Louis Blues’.” American Songwriter, August 2, 2021. https://americansongwriter.com/behind-song-bessie-smith-st-louis-blues (accessed November 11, 2025). 
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+Conover, Willis. 1956. “Louis Armstrong Interview, Fifth Hour.” Voice of America/KODA. University of North Texas Libraries, UNT Digital Library. July 13, 1956. https://digital.library.unt.edu/ark:/67531/metadc790429/m1/#track/9 (accessed November 11, 2025). 
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+Digital Public Library of America (DPLA). n.d. “Women and the Blues: [Primary Source #436].” https://dp.la/primary-source-sets/women-and-the-blues/sources/436 (accessed November 11, 2025). 
+
+Handy, W. C. (edited by Arna Bontemps). 1941. Father of the Blues: An Autobiography. New York: Macmillan. https://archive.org/details/fatherofbluesaut00wcha_0/ (accessed November 11, 2025). 
+
+Holland, Evangeline. 2015. “Fascinating Women: Bessie Smith and the Blues.” Edwardian Promenade, May 11, 2015. https://www.edwardianpromenade.com/african-american/fascinating-women-bessie-smith-and-the-blues/ (accessed November 11, 2025). 
+
+Library of Congress. n.d. “Blues.” In The Library of Congress Celebrates the Songs of America: Popular Songs of the Day (Articles and Essays). https://www.loc.gov/collections/songs-of-america/articles-and-essays/musical-styles/popular-songs-of-the-day/blues/ (accessed November 11, 2025). 
+
+Louis Armstrong House Museum. n.d. “Biography.” https://www.louisarmstronghouse.org/biography/ (accessed November 11, 2025). 
+
+Louis Armstrong House Museum. 2025. “‘They’re My Tops’: The Making of ‘Louis Armstrong Plays W. C. Handy’.” Virtual exhibit, April 21, 2025. Accessed November 11, 2025. https://www.louisarmstronghouse.org/virtual-exhibits/theyre-my-tops-the-making-of-louis-armstrong-plays-w-c-handy
+
+National Museum of African American History and Culture. n.d. “Bessie Smith.” https://nmaahc.si.edu/lgbtq/bessie-smith (accessed November 11, 2025).
+
+Naxos Records. 2003. “Bessie Smith: St. Louis Blues (1924–25), 8.120691 (About This Recording).” Naxos Jazz Legends. https://www.naxos.com/MainSite/BlurbsReviews/?itemcode=8.120691&catnum=120691&filetype=AboutThisRecording&language=English (accessed November 11, 2025). 
+
+Rentner, Simon. 2011. “Evolution of a Song: ‘St. Louis Blues’.” NPR – A Blog Supreme, August 10, 2011. https://www.npr.org/sections/ablogsupreme/2011/08/10/139377374/evolution-of-a-song-st-louis-blues (accessed November 11, 2025). 
+
+Pearley Sr., Lamont. 2021. “The Historical Roots of Blues Music.” Black Perspectives (AAIHS), November 15, 2021. https://www.aaihs.org/the-historical-roots-of-blues-music/ (accessed November 11, 2025). 
+
+“The History Behind the Song | The ‘St. Louis Blues’.” n.d. YouTube video. https://www.youtube.com/watch?v=Ct4qfdT7nPQ (accessed November 11, 2025).
+
+“Bessie Smith — ‘St. Louis Blues’ (1929).” n.d. YouTube video. https://www.youtube.com/watch?v=5Bo3f_9hLkQ&list=RD5Bo3f_9hLkQ&start_radio=1 (accessed November 11, 2025).
+
+Delaney, Bill. 2023. “Bessie Smith.” Salem Press Biographical Encyclopedia, January 1. EBSCOhost. https://research.ebsco.com/c/kov46v/viewer/html/x4s3pzkq5z?route=details (accessed November 11, 2025).
