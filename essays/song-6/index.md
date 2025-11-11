@@ -192,3 +192,5 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 - Library of Congress. N.d. “”Wioldwood Flower’--The Carter Family(1928),”National recording preservation board.https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf
 
+-“Article Clipped from Evening Herald Courier.” Newspapers.com, July 27, 1927. https://www.newspapers.com/article/evening-herald-courier/80539554/. 
+Atkins, John. “The Carter Family.” Essay. In Stars of Country Music: Uncle Dave Macon to Johnny Rodriguez, 95–118. Chicago, Illinois: University of Illinois Press, 1975.
