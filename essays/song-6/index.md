@@ -17,10 +17,6 @@ tags:
     - campus
 ---
 
-# The Carter Family
-The Carter Family consisted of three members, Alvin Pleasant (A.P.) Carter, his wife Sara Carter, and Sara’s cousin Maybelle Carter. Originating from Southwestern Virginia, the Carter family began their journey performing at local churches and on their porch before commercial recordings. In August 1927, a talent scout, Ralph Peer, invited the Carter Family to first commercially record an album in Bristol Virginia, composed of six songs (Library of Congress 2006).
-Between 1927 and 1941, the Carter Family reshaped early American Folk and Country music, being the first group to introduce Appalachian music to a national audience. As the family’s musical recordings gained popularity, the demand for new ones also increased. A.P. Carter would then go out and “song hunt” in nearby regions and return with new material to work with. The Carter Family didn’t originally write their own songs; instead, they traveled around collecting songs and poems, paying the families a few dollars for the rights. Families in the Blue Ridge Mountains shared their family songs with A.P., and he would memorize them, bring them back home, and rearrange them for the family to perform. A.P. Carter also sometimes found poetry in newspapers, which he would adapt into songs with Sara and Maybelle. (Malone 1975) The unique sound created through Sara’s vocals and Maybelle’s guitar playing caught the national audience and was considered the early pioneers for early country music (Carter Family Fold n.d.).
-
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 30px 0;">
   <div style="flex: 1;">
     <p>
