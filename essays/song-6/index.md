@@ -75,37 +75,28 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 
 
-## Duis vehicula erat et diam
-{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
-
-
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
-
-
-
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
-
-
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
-
-
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+-Home | Carter Family Fold and music center. Accessed October 29, 2025. https://carterfamilyfold.org/. 
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+- Spottswood, Dick. “‘Wildwood Flower.’” NPR, December 14, 2000. https://www.npr.org/2000/12/14/1115495/wildwood-flower.
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+- Stone, Rolling, and Rolling Stone. “Porter Wagoner, ‘a Satisfied Mind.’” Rolling Stone Australia, May 27, 2024. https://au.rollingstone.com/music/music-lists/the-200-greatest-country-songs-of-all-time-60414/porter-wagoner-a-satisfied-mind-60585/. 
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+- “Wildwood flower”—the Carter Family (1928). Accessed October 29, 2025. https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf.
+
+- McCulloh, Judith. “Hillbilly Records and Tune Transcriptions.” Western Folklore 26, no. 4 (1967): 225–44. https://doi.org/10.2307/1499326.
+
+-“Wildwood flower”—the Carter Family (1928). Accessed October 29, 2025. https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Wildwood-Flower_Carlene-Carter.pdf. 
+
+-Boyd, Laiken. "The Carter Family And Hazel & Alice: A Comparison Of Musical Influences And Changing Gender Norms." PhD diss., Appalachian State University, 2025.
+
+-Early radio history. 1901.” first authentic experiments in Wireless telegraphy.” Early radio history. https://earlyradiohistory.us/1901fae.htm
+
+-Birthplace of country music museum. 2021.” The Carter family on the border radio.” Birthplace of country music.https://birthplaceofcountrymusic.org/the-carter-family-on-the-border-radio/
+
+-Webster, Joseph P., and Maud Irving. 1860. “I’ll Twine ‘mid the ringlets.” Chicago: H.M. Higgins. https://www.loc.gov/item/sm1860.380940/
+
+-Library of Congress. N.d. “”Wioldwood Flower’--The Carter Family(1928),”National recording preservation board.https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf
+
+-
