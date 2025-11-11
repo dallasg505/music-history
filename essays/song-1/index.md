@@ -80,7 +80,6 @@ The intended audience is the African American culture. It is considered a blues 
 The song was instantly popular at the time, becoming the second most recorded song of the 20th century, after “Silent Night.” It likely resonated with people due to the collective feeling of heartbreak that everyone experiences at some point throughout their life.
 
 ## Bibliography
-
 - Armstrong, Louis. 1954. Satchmo: My Life in New Orleans. Englewood Cliffs, NJ: Prentice-Hall, Inc. https://archive.org/details/satchmomylifeinn001956mbp/page/n169/mode/2up (accessed November 11, 2025). 
 - Beviglia, Jim. 2021. “Behind the Song: Bessie Smith, ‘St. Louis Blues’.” American Songwriter, August 2, 2021. https://americansongwriter.com/behind-song-bessie-smith-st-louis-blues (accessed November 11, 2025). 
 - Conover, Willis. 1956. “Louis Armstrong Interview, Fifth Hour.” Voice of America/KODA. University of North Texas Libraries, UNT Digital Library. July 13, 1956. https://digital.library.unt.edu/ark:/67531/metadc790429/m1/#track/9 (accessed November 11, 2025). 
@@ -94,6 +93,6 @@ The song was instantly popular at the time, becoming the second most recorded so
 - Naxos Records. 2003. “Bessie Smith: St. Louis Blues (1924–25), 8.120691 (About This Recording).” Naxos Jazz Legends. https://www.naxos.com/MainSite/BlurbsReviews/?itemcode=8.120691&catnum=120691&filetype=AboutThisRecording&language=English (accessed November 11, 2025).
 - Rentner, Simon. 2011. “Evolution of a Song: ‘St. Louis Blues’.” NPR – A Blog Supreme, August 10, 2011. https://www.npr.org/sections/ablogsupreme/2011/08/10/139377374/evolution-of-a-song-st-louis-blues (accessed November 11, 2025).
 - Pearley Sr., Lamont. 2021. “The Historical Roots of Blues Music.” Black Perspectives (AAIHS), November 15, 2021. https://www.aaihs.org/the-historical-roots-of-blues-music/ (accessed November 11, 2025).
-- “The History Behind the Song | The ‘St. Louis Blues’.” n.d. YouTube video. https://www.youtube.com/watch?v=Ct4qfdT7nPQ (accessed November 11, 2025).
-- “Bessie Smith — ‘St. Louis Blues’ (1929).” n.d. YouTube video. https://www.youtube.com/watch?v=5Bo3f_9hLkQ&list=RD5Bo3f_9hLkQ&start_radio=1 (accessed November 11, 2025).
 - Delaney, Bill. 2023. “Bessie Smith.” Salem Press Biographical Encyclopedia, January 1. EBSCOhost. https://research.ebsco.com/c/kov46v/viewer/html/x4s3pzkq5z?route=details (accessed November 11, 2025).
+- "The History Behind the Song | The ‘St. Louis Blues’.” n.d. YouTube video. https://www.youtube.com/watch?v=Ct4qfdT7nPQ (accessed November 11, 2025).
+- “Bessie Smith — ‘St. Louis Blues’ (1929).” n.d. YouTube video. https://www.youtube.com/watch?v=5Bo3f_9hLkQ&list=RD5Bo3f_9hLkQ&start_radio=1 (accessed November 11, 2025).
