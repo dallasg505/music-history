@@ -90,13 +90,55 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
 
 
 ## “Wildwood Flower” and the Radio
-The reasoning behind Wildwood flowers' virality and success was caused by innovation and exposure created by new technology in the early 1900s. In Gugliermo Marconi's 1896 patent for wireless telegraphy, he states that his invention used “Improvements in transmitting electrical pulses and signals in apparatus therefore” Creating the Avenues for the Carter family's virality and Success Through technology. This was a new way for music and communication to spread. The United States already had radio telegraphy throughout the country This was the foundation for a network of radio stations and receivers. Marconi's success in making long-distance signal transmission possible allowed the infrastructure for early broadcast to reach National audiences. This had a direct benefit for the Carter family because they're recording and live on air performances  would be accessible to audiences Nationwide. 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <p>
+      The reasoning behind Wildwood Flower’s virality and success was caused by innovation and exposure created by new technology in the early 1900s. 
+      In Guglielmo Marconi’s 1896 patent for wireless telegraphy, he states that his invention used “Improvements in transmitting electrical pulses and signals in apparatus therefore” 
+      creating the avenues for the Carter family’s virality and success through technology. This was a new way for music and communication to spread. 
+      The United States already had radio telegraphy throughout the country. This was the foundation for a network of radio stations and receivers. 
+      Marconi’s success in making long-distance signal transmission possible allowed the infrastructure for early broadcast to reach national audiences. 
+      This had a direct benefit for the Carter family because their recordings and live on-air performances would be accessible to audiences nationwide.
+    </p>
 
-The success of the Carter family was not just based on their musical ability it was the result of advancements in technology.A key concept behind the rise of the Carter family's Fame was the development of radio broadcasting in the early 20th century. This changed how the  average American Experience music, this technology  allowed the voices of people from Appalachia to be heard Nationwide. LOL one of the most powerful and influential border stations was XERA. It was located across the US Mexico border, and it would reach millions of listeners throughout North America. According to the birthplace of Country Music Museum,” The Carter family's performance on powerful borders radio stations like XERA spread their Mountain Sound to Millions across the U.S.” (Birthplace of Music, 2021). The Carter family's authentic sound and emotion resonated with their audiences who long for genuine storytelling in a rapidly industrializing world. Through radio” Wildwood  flower”  became one of the first songs to achieve Nationwide success and recognition. Using radio broadcasts broke their geographical and cultural barriers, which in turn allowed the music of rural Appalachia to enter homes across the country. The spread of music through new technology had a large role in the success of the Carter family. 
+    <p>
+      The success of the Carter Family was not just based on their musical ability; it was also the result of advancements in technology. 
+      A key concept behind the rise of the Carter family’s fame was the development of radio broadcasting in the early 20th century. 
+      This changed how the average American experienced music—allowing voices from Appalachia to be heard nationwide. 
+      One of the most powerful and influential border stations was XERA, located across the US-Mexico border, reaching millions of listeners throughout North America. 
+      According to the Birthplace of Country Music Museum (2021), the Carter Family’s performances on powerful border radio stations like XERA spread their “Mountain Sound” 
+      to millions across the U.S. Their authentic sound and emotion resonated with audiences longing for genuine storytelling in a rapidly industrializing world. 
+      Through radio, “Wildwood Flower” became one of the first songs to achieve nationwide success and recognition. 
+      Using radio broadcasts broke geographical and cultural barriers, allowing rural Appalachian music to enter homes across the country.
+    </p>
 
- Having a connection between media and Technology  can also be seen and how early recording companies like the Victor Talking Machine Company captured the authentic sound of mountain musicians for Country audiences.  In the 1927 article Evening Herald Courier described how ” notables of this Mountain Country doing their best stunts for the microphone, turned into records, and spread at home and abroad” (Evening Herald Courier, 1927, p. 1). The sessions where these  songs were recorded were called the Bristol sessions. They took place in Bristol, Tennessee and they aimed to preserve and share the music of Rural America through Modern Recording Technology. It began as a local effort to document Regional folk songs and it evolved into a movement that defined early country music. The transformation of the audio recordings into records allowed the songs of Everyday People to travel far beyond Appalachia. 
+    <p>
+      Having a connection between media and technology can also be seen in how early recording companies like the Victor Talking Machine Company captured 
+      the authentic sound of mountain musicians for country audiences. In the 1927 article <i>Evening Herald Courier</i> described how “notables of this mountain country 
+      doing their best stunts for the microphone, turned into records, and spread at home and abroad.” These sessions, recorded in Bristol, Tennessee, 
+      aimed to document regional folk songs and evolved into a movement that defined early country music. 
+      The transformation of these recordings into records allowed the songs of everyday people to travel far beyond Appalachia.
+    </p>
 
-The mixture of innovation, authenticity and cultural preservation was the big Bang for American music. from Marconi's first transmission signals to the Bristol recording sessions and the Carter's family's radio performances, the use of Technology Amplified human expression. Wildwood flower is a testament to how art and Technology can be used together. 
+    <p>
+      The mixture of innovation, authenticity, and cultural preservation was the Big Bang for American music. 
+      From Marconi’s first transmission signals to the Bristol recording sessions and the Carter Family’s radio performances, 
+      the use of technology amplified human expression. “Wildwood Flower” is a testament to how art and technology can be used together.
+    </p>
+  </div>
+
+  <img src="images/Clipping.jpeg" alt="Evening Herald Courier 1927 article on mountain music recordings"
+       style="width: 320px; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.25);">
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+  <img src="images/Marconi.jpg" alt="Guglielmo Marconi"
+       style="width: 80%; max-width: 700px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.25);">
+  <p style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    Guglielmo Marconi, whose innovations in wireless telegraphy helped lay the foundation for nationwide radio broadcasts that carried the Carter Family’s music.
+  </p>
+</div>
+
 
 
 ## Behind the “Wildwood Flower”
@@ -138,16 +180,15 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 - McCulloh, Judith. “Hillbilly Records and Tune Transcriptions.” Western Folklore 26, no. 4 (1967): 225–44. https://doi.org/10.2307/1499326.
 
--“Wildwood flower”—the Carter Family (1928). Accessed October 29, 2025. https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Wildwood-Flower_Carlene-Carter.pdf. 
+- “Wildwood flower”—the Carter Family (1928). Accessed October 29, 2025. https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Wildwood-Flower_Carlene-Carter.pdf. 
 
--Boyd, Laiken. "The Carter Family And Hazel & Alice: A Comparison Of Musical Influences And Changing Gender Norms." PhD diss., Appalachian State University, 2025.
+- Boyd, Laiken. "The Carter Family And Hazel & Alice: A Comparison Of Musical Influences And Changing Gender Norms." PhD diss., Appalachian State University, 2025.
 
--Early radio history. 1901.” first authentic experiments in Wireless telegraphy.” Early radio history. https://earlyradiohistory.us/1901fae.htm
+- Early radio history. 1901.” first authentic experiments in Wireless telegraphy.” Early radio history. https://earlyradiohistory.us/1901fae.htm
 
--Birthplace of country music museum. 2021.” The Carter family on the border radio.” Birthplace of country music.https://birthplaceofcountrymusic.org/the-carter-family-on-the-border-radio/
+- Birthplace of country music museum. 2021.” The Carter family on the border radio.” Birthplace of country music.https://birthplaceofcountrymusic.org/the-carter-family-on-the-border-radio/
 
--Webster, Joseph P., and Maud Irving. 1860. “I’ll Twine ‘mid the ringlets.” Chicago: H.M. Higgins. https://www.loc.gov/item/sm1860.380940/
+- Webster, Joseph P., and Maud Irving. 1860. “I’ll Twine ‘mid the ringlets.” Chicago: H.M. Higgins. https://www.loc.gov/item/sm1860.380940/
 
--Library of Congress. N.d. “”Wioldwood Flower’--The Carter Family(1928),”National recording preservation board.https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf
+- Library of Congress. N.d. “”Wioldwood Flower’--The Carter Family(1928),”National recording preservation board.https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf
 
--
