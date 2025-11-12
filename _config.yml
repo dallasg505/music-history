@@ -1,4 +1,5 @@
 baseurl: /music-history/
+
 defaults:
   - scope:
       path: ""
