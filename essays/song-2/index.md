@@ -1,11 +1,11 @@
 ---
-title: Song 2 Dark is The Night, Cold is the Ground By Blind Willie Johnson
+title: Song 2 Dark Was The Night, Cold Was The Ground By Blind Willie Johnson
 position: 2
 author: Dallas Grassbaugh, Ashlynn Luna, Isabella (Bella)Allred
 layout: base
 date: 2025-10-21
 thumbnail: images/Blind Willie
-summary: Dark is The Night, Cold is The Ground By Blind Willie Johnson was a song of universal proportions. With no other song like it at its time this song expresses the pain and suffering humanity faces throughout their lives.
+summary: Dark Was The Night, Cold Was The Ground By Blind Willie Johnson was a song of universal proportions. With no other song like it at its time this song expresses the pain and suffering humanity faces throughout their lives.
 header-image: essays/song-2/images/blindwillie.JPG
 header-title: 
 header-position: 0px
@@ -17,10 +17,9 @@ tags:
     - campus
 ---
 
-# Dark Wass The Night, Cold Was The Ground By Blind Willie Johnson (1927)
+# Dark Was The Night, Cold Was The Ground By Blind Willie Johnson (1927)
 Dark is The Night, Cold is The Ground By Blind Willie Johnson was a song of universal proportions. With no other song like it at its time this song expresses the pain and suffering humanity faces throughout their lives.
 
-Most of the text is just dummy text to keep the focus on the page elements.
 
 
 ## Dark Was The Night,Cold Was The Ground
