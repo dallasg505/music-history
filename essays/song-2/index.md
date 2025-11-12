@@ -94,10 +94,11 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+-Aug.Radio digest programs illustrated. Chicago, Ill., E. C. Rayner et, 1927, Periodical. https://www.loc.gov/item/26018833/resource/gdcmassbookdig.radiodigest192611922radi-1927-08.
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+-Coggins, Owe. “Paradise and Politics in the Music of Blind Willie Johnson”
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+-Kruth, John. “Evangelizing the Blues: The Fierce and Enduring Legacy of BLIND WILLIE JOHNSON.” Sing Out! 54, no. 1 (September 1, 2010): 45–50. https://research-ebsco-com.libproxy.unm.edu/linkprocessor/plink?id=00eee201-f495-3e16-a8ae-35b930dfd740.
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+-O’Dell, Carl. “Dark Was the Night, Cold Was the Grounds”- Blind Willie Johnson(1927) National Registry:2010
+
