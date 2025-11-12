@@ -48,8 +48,21 @@ caption="Chicago Tribune was a news paper that was focused towards the black com
 The actual 1927 recording itself forces us to feel how people felt during that period. Johnson's slide guitar playing and humming voice express sadness and a kind of spiritual hope. That shows how hard the situation was for African Americans, like racism and poverty, especially those migrating to new cities. The song almost sounds like the pain of those who were struggling to hold on to faith in those hard times. Another source is The Chicago Defender, a newspaper that was published in the late 1920s and specifically addressed African American life. It discussed the racism, discrimination, and financial troubles African Americans faced at this time. For example, the Defender regularly reported on job discrimination and the struggle for civil rights, which contributes as to why music such as Johnson's contained both suffering and hope.
 
 
-## Blues and Gospel
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+## Genre and Sound
+
+Blind Willie Johnson was known for his iconic and individualistic style of guitar 
+playing, known as slide guitar. This style of playing involves the player using one of their
+fingers to hold an object to slide along the neck of the guitar, changing the vibration pattern 
+of the strings, creating a different sound and effect. This technique was heavily used in 
+blues music, and Blind Willie Johnson was one of the first to do it and make the technique 
+so popular. In his earliest days as a street performer, he was said to have used a 
+pocketknife as a slide. 
+The song “Dark was the Night, Cold was the Ground” is composed of only the guitar 
+and Blind Willies vocals, making for a very raw emotional piece. This song is known to be 
+Blind Willie’s most famous and recognizable song, most notably highlighting his iconic 
+slide guitar playing in the tuning Open D. As the song is not sung with words, its foundation 
+of religious lyricism is communicated through emotion, instrumentals, and vocal 
+presence. 
 
 {% include aside.html class="right" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
@@ -57,8 +70,14 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 
-### Duis vehicul
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+### Blues and Gospel
+Blind Willie Johnson became a household name and a staple of rhythm and blues, 
+as well as rising to the forefront of Gospel Blues. The hit song “Dark was the Night, Cold 
+was the Ground” is composed of said elements heavily incorporated and is composed in a 
+rhythm and blues style with a religious backing. The song “Dark was the Night, Cold was 
+the Ground” is composed in reference to a hymn that dates to the 18th century, in which 
+Blind Willie took reference.
+
 
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
