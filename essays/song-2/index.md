@@ -40,7 +40,11 @@ What makes “Dark Was the Night, Cold Was the Ground” so profoundly moving is
 ## Historical Impact
 Dark Was the Night, Cold Was the Ground by Blind Willie Johnson was made in 1927. This was a time when a lot was happening in America. There were many historical events that helped shape this song. Some major influence rooted in the fact that some people were still feeling the effects of World War Many African Americans were moving to new cities looking for better lives. All of this made people feel lonely, sad, and try to find hope at the same time.
 
-{% include figure.html class="right" width="60%" caption="Chicago Tribune was a news paper that was focused towards the black community. [Source](https://github.com/dallasg505/music-history/blob/c697815bb065a55c3e21dcd257b403adcd5272ab/essays/song-2/images/chigago.JPG)"image-path=" essays/song-2/images/chigago.JPG" %}
+{% include figure.html 
+class="right"
+width="60%"
+caption="Chicago Tribune was a news paper that was focused towards the black community. [Source](https://github.com/dallasg505/music-history/blob/c697815bb065a55c3e21dcd257b403adcd5272ab/essays/song-2/images/chigago.JPG)" image-path="essays/song-2/images/chigago.JPG"
+%}
 
 The actual 1927 recording itself forces us to feel how people felt during that period. Johnson's slide guitar playing and humming voice express sadness and a kind of spiritual hope. That shows how hard the situation was for African Americans, like racism and poverty, especially those migrating to new cities. The song almost sounds like the pain of those who were struggling to hold on to faith in those hard times. Another source is The Chicago Defender, a newspaper that was published in the late 1920s and specifically addressed African American life. It discussed the racism, discrimination, and financial troubles African Americans faced at this time. For example, the Defender regularly reported on job discrimination and the struggle for civil rights, which contributes as to why music such as Johnson's contained both suffering and hope.
 
@@ -65,8 +69,8 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Voyager II 1977. [Source](essays/song-2/images/Voyager II.PNG)" 
-image-path="essays/song-2/images/Voyager II.PNG" 
+caption="Voyager II 1977. [Source](https://github.com/dallasg505/music-history/blob/3c4f9fedb6cbfd76816f06ecab530cba58515f94/essays/song-2/images/Voyager1.jpg)" 
+image-path="essays/song-2/images/Voyager1.jpg" 
 %}
 
 This wordless gospel rendition was chosen by Carl Sagan and his team to be included on the Golden Record attached to the Voyager spacecraft in 1977, sent into the cosmos as an expression of human loneliness, suffering, and the resilience of the human spirit. O'Dell 
