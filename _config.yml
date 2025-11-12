@@ -1,5 +1,5 @@
 baseurl: /music-history/
-repository: RomanUb/music-history
+#deleted reposatory
 defaults:
   - scope:
       path: ""
