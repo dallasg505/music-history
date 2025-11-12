@@ -102,13 +102,13 @@ The Great Migration brought many Black southerners to northern cities like Chica
 
 -  Baker, David N., and Luvenia A. George. “Louis Armstrong: The Man and His Life.” In Smithsonian Institution Louis Armstrong Education Kit, 16.
 
--  Baker, David N., and Luvenia A. George. n.d. [“Louis Armstrong: The Man and His Life.”](https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf.) In Smithsonian Institution Louis Armstrong Education Kit, 15-16. N.p.: National Museum of American History.
+-  - Bessen, Sam. Johns Hopkins Sheridan Libraries. [1928. West End Blues Sheet Music](https://www.library.jhu.edu/give/sponsor-a-book/west-end-blues/). New York: Clarence Williams Music Publishing Co. 
 
 -   Clark, John. "VOLUME 1: CALL OF THE FREAKS KING OLIVER AND HIS ORCHESTRA/VOLUME 2: NEW ORLEANS SHOUT KING OLIVER AND HIS ORCHESTRA." IAJRC Journal 40, no. 4 (12, 2007): 65-66
 
 - Clark, John. "VOLUME 1: CALL OF THE FREAKS KING OLIVER AND HIS ORCHESTRA/VOLUME 2: NEW ORLEANS SHOUT KING OLIVER AND HIS ORCHESTRA."
 
-- [“Blues People, Music, and Folklore.”](https://www.locallearningnetwork.org.) Journal of Folklore and Education, accessed October 28, 2025. 
+- Pearley, Lemont. [“Blues People, Music, and Folklore.”](https://jfepublications.org/article/blues-people-music-and-folklore/) Journal of Folklore and Education, accessed October 28, 2025. 
 
 - Discography of American Historical Recordings, s.v. ["Brunswick matrix E27685. West End blues / Dixie Syncopators ; King Oliver,"](https://adp.library.ucsb.edu/index.php/matrix/detail/2000226777/E27685-West_End_blues.) accessed October 28, 2025.
 
@@ -120,23 +120,17 @@ The Great Migration brought many Black southerners to northern cities like Chica
 
 - Discography of American Historical Recordings, s.v. ["OKeh matrix W401083. West End blues / Hazel Smith,"](https://adp.library.ucsb.edu/index.php/matrix/detail/2000209906/W401083-West_End_blues.) accessed October 28, 2025.
   
-- Encyclopaedia Britannica. [“Louis Armstrong.”](https://www.britannica.com/biography/Louis-Armstrong.) Britannica, last modified or accessed October 28, 2025. 
+- Encyclopaedia Britannica. [“Louis Armstrong.”](https://www.britannica.com/biography/Louis-Armstrong) Britannica, last modified or accessed October 28, 2025. 
 
 - Harker, Brian. 2011. [Louis Armstrong’s Hot Five and Hot Seven Recordings](https://global.oup.com/academic/product/louis-armstrongs-hot-five-and-hot-seven-recordings-9780195388411). Oxford: Oxford University Press. 
 
-- [Jazz, Blues, and Ragtime in America, 1900–1945.](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-342) 2022. In Oxford Research Encyclopedia of American History. Oxford University Press. 
+- Carney, Court. [Jazz, Blues, and Ragtime in America, 1900–1945.](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-342) 2022. In Oxford Research Encyclopedia of American History. Oxford University Press. 
 
-- Johns Hopkins Sheridan Libraries. [1928. West End Blues Sheet Music](https://www.library.jhu.edu/give/sponsor-a-book/west-end-blues/). New York: Clarence Williams Music Publishing Co. 
-  
-- NPR. [“Louis Armstrong’s ‘West End Blues,’ The Day Jazz Changed Forever.”](https://www.npr.org.) NPR Music, accessed October 28, 2025. 
+- Burnett, John. NPR. [“‘West End Blues’.”](https://www.npr.org/2000/08/06/1080400/west-end-blues) NPR Music, accessed October 28, 2025. 
 
-- NPR. [“‘West End Blues’.”](https://www.npr.org.) NPR Music, accessed October 28, 2025. 
-
-- Riccardi, Ricky. [“Ricky Riccardi on the Making of ‘West End Blues’.”]( https://jazztimes.com.) JazzTimes, accessed October 28, 2025.
+- Riccardi, Ricky. [“Ricky Riccardi on the Making of ‘West End Blues’.”](https://jazztimes.com/features/special-feature/ricky-riccardi-on-the-making-of-west-end-blues/) JazzTimes, accessed October 28, 2025.
   
 - Schuller, Gunther. Early Jazz: Its Roots and Musical Development. Oxford: Oxford University Press, 1968.
-
-- The Pop History Dig. [“West End Blues (1928).”]( https://www.pophistorydig.com.) The Pop History Dig, accessed October 28, 2025.
 
 
 
