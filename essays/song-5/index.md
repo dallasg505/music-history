@@ -5,7 +5,7 @@ author: Student Name
 layout: base
 date: 2025-10-21
 thumbnail: images/jimmie-rodgers-in-1921.jpg
-summary: Write the summary of your webpage here
+summary: Learn about Blue Yodel No 1 And Jimmie Rodgers
 header-image: images/record-blue-yodel.jpeg.jpg
 header-title: 
 header-position: 0px
@@ -83,13 +83,17 @@ Oh-del-lay-ee eh, lay-ee oh, lay-ee
 ## About the song
 The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics (Atkins, John. 2010.)
 
-  Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
+  Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee.
+  
+In the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with.
+
+From the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
 
 The words in this song that during the time period would make sense are harder to understand today which decreases the punch of the double entendre that is used throughout the song
 
- Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
+Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
 
- “water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
+“water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
 
 “I'm gonna buy me a pistol just as long as I'm tall” is a way to express his bravado and is an over exaggeration to show that the narrator is not thinking clearly which is supported by deciding to escape to two different states in different directions.
 
@@ -101,10 +105,9 @@ The words in this song that during the time period would make sense are harder t
 
 
 
-## Jimmie Rodgers
+## Who is Jimmie Rodgers
 {% include figure.html class="middle" width="60%" caption="" image-path="images/jimmie-rodgers-in-1921.jpg" %}
 
-  "Who is Jimme Rodgers"
 
  James Charles Rodgers, or also known as Jimmie Rodgers was a famous country and blues singer, as well as being the popular singer of the song T for Texas. He was born in 1897 in Meridian, Mississippi, he stayed there up until the death of his mother four years later. Jimmie Rodger's Father was left alone with a child as he worked as a foreman, because of his father's work, Jimmie Rodgers got exposed to the very thing that would make him famous!
 
@@ -126,15 +129,20 @@ In 1931, there was a drought that affected him greatly. It started with a few co
 You may be wondering what is with the yodel Jimmie Rodgers performs between the stanzas of
 his songs, this was a defining piece of his work. We have to first understand where this yodeling
 came from, the yodeling heard in his songs originates from slaves vocalizing the similar yodels
-on and off the plantation during their capture (Scarborough and Gulledge, 1925, 226). This
-unique type of yodeling is what Jimmie Rodgers incorporated into his songs and was known as
+on and off the plantation during their capture (Scarborough and Gulledge, 1925, 226).
+
+This unique type of yodeling is what Jimmie Rodgers incorporated into his songs and was known as
 a “blues yodel”, but since he was a country singer, the blend of these genres made him famous
-and a pioneer of the new subgenre. It had now become his trademark; you could hear his yodel
+and a pioneer of the new subgenre.
+
+It had now become his trademark; you could hear his yodel
 in nearly every one of his songs (Wise 2010, 6-12, 33-39). In his songs it's used to transition
 from stanza to stanza to keep the rhythm of the song going while adding emotional weight each
 time he performed it, but people didn’t just see this as a means of transitioning in the song but
 rather the main signature of the artist and what gave the song character (Seward Daily Gateway
-1928). Jimmie Rodgers’ songs are particularly unique because of this element and some could
+1928). 
+
+Jimmie Rodgers’ songs are particularly unique because of this element and some could
 argue he was as big as he was because of how unrepeatable and unique he made his songs
 with this new aspect he assimilated within country music. Though we may not hear this style as
 much today, Jimmie Rodgers’ yodel revolutionized country music and has left a lasting effect on
@@ -189,37 +197,43 @@ Still, Rodgers has been a called a national phenomenon and considered still, one
 ## Bibliography
 
  Rodgers, Carrie (1935). My Husband, Jimmie Rodgers. Ernest Tubb Publications.
+ 
 
- West!, Bluegrass. 2003. “Ralph Peer Remembers Jimmie Rodgers.” Peermusic - The Independent Major. 2003. https://web.archive.org/web/20080520132406/http://www.peermusic.com/news/press_detail.cfm?announcement_id=273&back=news. 
+ West!, Bluegrass. 2003. “Ralph Peer Remembers Jimmie Rodgers.” Peermusic - The Independent Major. 2003. 
+ [Source](https://web.archive.org/web/20080520132406/http://www.peermusic.com/news/press_detail.cfm?announcement_id=273&back=news. )"
 
- Wise, Timothy. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. 2010. https://research.ebsco.com/c/kov46v/viewer/pdf/glmvvioumn. 
+ Wise, Timothy. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. 2010.  [Source](https://research.ebsco.com/c/kov46v/viewer/pdf/glmvvioumn.)"
 
-Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
+Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v.  [Source](https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. ))"
 
-Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
+Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. [Source](https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v.)"
 
 Gioia, Joe. 2014. The Guitar and the New World: A Fugitive History. Albany: SUNY Press. 
 
-Daktar, Abraxas01. n.d. “Jimmie Rodgers – Blue Yodel No. 1 (T for Texas) Lyrics | Genius Lyrics.” Blue Yodel No. 1 (T for Texas) Lyrics. Accessed October 29, 2025. https://genius.com/Jimmie-rodgers-blue-yodel-no-1-t-for-texas-lyrics.
+Daktar, Abraxas01. n.d. “Jimmie Rodgers – Blue Yodel No. 1 (T for Texas) Lyrics | Genius Lyrics.” Blue Yodel No. 1 (T for Texas) Lyrics. Accessed October 29, 2025.   [Source](https://genius.com/Jimmie-rodgers-blue-yodel-no-1-t-for-texas-lyrics.)"
 
 Scarborough, Dorothy, and Ola Lee Gulledge. On the Trail of Negro Folk-Songs. Harvard
-University Press, 1925
-https://archive.org/details/ontrailofnegrofo00scar/page/226/mode/2up?q=yodel
+University Press, 1925  [Source](https://archive.org/details/ontrailofnegrofo00scar/page/226/mode/2up?q=yodel)"
+
 Wise, Timothy. Jimmie Rodgers and the Semiosis of the Hillbilly Yodel. Musical Quarterly 93 (1):
-6–44, 2010. https://doi.org/10.1093/musqtl/gdp030
+6–44, 2010.  [Source](https://doi.org/10.1093/musqtl/gdp030)"
+
 Seward Daily Gateway. Singing Breakman Is Now An Exclusive and Popular Victor Artist.
-(Seward, AK), Jun. 21 1928. https://www.loc.gov/item/sn87062169/1928-06-21/ed-1/.
+(Seward, AK), Jun. 21 1928. [Source](https://www.loc.gov/item/sn87062169/1928-06-21/ed-1/.)"
+
 Mike, ed. “Jimmie Rodgers - Waiting for a Train/Daddy andHome/BlueYodel.” YouTube,
-2007. https://www.youtube.com/watch?v=iyHulWOZBpk. (Attach next to text)
+2007. [Source](https://www.youtube.com/watch?v=iyHulWOZBpk.  )"
 
 Thompson, Clive. “How the Phonograph Changed Music Forever.” Smithsonian
 Magazine, January 2016 How the Phonograph Changed Music Forever
+
 White, Clyde. “Social Class Differences in the Uses of Leisure” American Journal of
 Sociology, Vol 61. No. 2 (1955): 146-147 Social Class Differences in the Uses of Leisure
 on JSTOR
+
 Olson, T. “The 1927 Bristol Sessions: The Big Bang, or the Big Brag, of Country Music?”
 Appalachian Journal, Vol 42. No 3 (2025): 262–283
-https://doi.org/10.1353/apl.2015.a955913
+ [Source](https://doi.org/10.1353/apl.2015.a955913 )"
 
    Project MUSE - Blue Yodeler: Jimmie Rodgers Links to an external site. - by Bland Simpson Volume 12, 2006 (S)
 
