@@ -80,6 +80,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 
 ## Blues and Gospel
+
 Blind Willie Johnson became a household name and a staple of rhythm and blues, 
 as well as rising to the forefront of Gospel Blues. The hit song “Dark was the Night, Cold 
 was the Ground” is composed of said elements heavily incorporated and is composed in a 
@@ -100,7 +101,7 @@ Given its profound impact on American music and culture, it remains one of the m
 {% include figure.html class="right" width="48%" caption="Blind Willie Johnson. Source" image-path“essays/song-2/images/Slide.JPG” %}
 
 
-##Slide Guitar
+## Slide Guitar
 
 Blind Willie Johnson was known for his iconic and individualistic style of guitar playing, known as **slide guitar**. This style involves the player using one of their fingers to hold an object—often a **bottleneck or knife**—to slide along the neck of the guitar, altering the vibration pattern of the strings and creating a distinctive sound *(African American Registry, n.d.)*.
 
@@ -116,7 +117,7 @@ This wordless gospel rendition was chosen by Carl Sagan and his team to be inclu
 
 
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
+> Dark Was The Night, Cold Was The Ground has made an imapct on history and truly recognizing human emotion and suffering without saying a word.
 
 
 
