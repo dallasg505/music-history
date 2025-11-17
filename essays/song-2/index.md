@@ -87,6 +87,18 @@ rhythm and blues style with a religious backing. The song “Dark was the Night,
 the Ground” is composed in reference to a hymn that dates to the 18th century, in which 
 Blind Willie took reference.
 
+Blind Willie Johnson became a household name and a staple of **rhythm and blues**, while also rising to the forefront of **Gospel Blues** *(African American Registry, n.d.)*.  
+*“Dark Was the Night, Cold Was the Ground”* blends these genres, composed in a rhythm and blues style with a **religious backing** *(Lornell, n.d.)*.  
+The song references an **18th-century hymn**, which Johnson adapted into his own musical language *(Lornell, n.d.)*.
+
+The piece stretches across genres, especially **gospel and blues**. Johnson stripped away lyrics and replaced them with **guitar riffs**, performed in his signature **slide style**, allowing the music to speak the lyricism *(Lornell, n.d.)*.  
+This approach helped shape the fusion of blues and gospel as a vehicle for expressing **religion, racism, and life in America** *(African American Registry, n.d.)*.
+
+At the time, the song became a hit, its influence spreading widely. It became a **cultural artifact**, sung at **plantations, funerals, executions, and church services** *(Lornell, n.d.)*.  
+Given its profound impact on American music and culture, it remains one of the most notable pieces of early **Gospel Blues** *(Lornell, n.d.)*.
+
+{% include figure.html class="right" width="48%" caption="Blind Willie Johnson. Source" image-path“essays/song-2/images/Slide.JPG” %}
+
 
 ##Slide Guitar
 
