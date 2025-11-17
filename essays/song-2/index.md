@@ -37,6 +37,7 @@ What makes “Dark Was the Night, Cold Was the Ground” so profoundly moving is
 
 
 ## Historical Impact
+
 *"Dark Was The Night, Cold Was The Ground"* by Blind Willie Johnson was made in **1927**. This was a time when a lot was happening in America. There were many historical events that helped shape this song. Some major influence rooted in the fact that some people were still feeling the effects of **World War I**, and many African Americans were moving to new cities looking for better lives. All of this made people feel lonely, sad, and try to find hope at the same time. You can almost hear their hopeful cries in this song.  
 
 This song was also shaped by **church music** and the traditions of African American communities, which makes it feel *deep* and gives it meaningful expression. Blind Willie Johnson’s song doesn’t have words, but his guitar and singing sound like he’s telling a story about **pain, hope, and faith**. The actual 1927 recording itself forces us to feel how people felt during that period. Johnson's slide guitar playing and humming voice express sadness and a kind of spiritual hope. This shows how hard the situation was for African Americans, like **racism and poverty**, especially those migrating to new cities — Johnson, 1927. The song almost sounds like the pain of those struggling to hold on to faith in those hard times.  
