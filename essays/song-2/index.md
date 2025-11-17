@@ -50,11 +50,8 @@ Talking about secondary sources, there is an article that describes how Blind Wi
 
 In summary, *"Dark Was the Night, Cold Was the Ground"* really shows what people went through at that time. They experienced periods of **pain and loneliness**, but still held onto belief. Blind Willie Johnson's music doesn't need words to tell a story of suffering and faith. Listening to it with the historical context in mind allows you to connect with how powerful and meaningful this song is.
 
-{% include figure.html 
-class="right"
-width="60%"
-caption="*Chicago Defender* was a news paper that was focused towards the black community. [Source]" (image-path="essays/song-2/images/chigago.JPG")
-%}
+![Chicago Defender newspaper](essays/song-2/images/chigago.JPG)
+*Chicago Defender* was a newspaper focused towards the black community. [Source]
 
 The actual 1927 recording itself forces us to feel how people felt during that period. Johnson's slide guitar playing and humming voice express sadness and a kind of spiritual hope. That shows how hard the situation was for African Americans, like racism and poverty, especially those migrating to new cities. The song almost sounds like the pain of those who were struggling to hold on to faith in those hard times. Another source is The Chicago Defender, a newspaper that was published in the late 1920s and specifically addressed African American life. It discussed the racism, discrimination, and financial troubles African Americans faced at this time. For example, the Defender regularly reported on job discrimination and the struggle for civil rights, which contributes as to why music such as Johnson's contained both suffering and hope.
 
