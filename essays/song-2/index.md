@@ -98,8 +98,7 @@ This approach helped shape the fusion of blues and gospel as a vehicle for expre
 At the time, the song became a hit, its influence spreading widely. It became a **cultural artifact**, sung at **plantations, funerals, executions, and church services** *(Lornell, n.d.)*.  
 Given its profound impact on American music and culture, it remains one of the most notable pieces of early **Gospel Blues** *(Lornell, n.d.)*.
 
-{% include figure.html image="essays/song-2/images/slideguitar.JPG" class='right' width='48%' height='48%' %}
-
+![Blind Willie Johnson Slide Guitar]（essays/song-2/images/slideguitar.JPG）
 
 ## Slide Guitar
 
@@ -110,16 +109,13 @@ This technique was heavily used in **blues music**, and Johnson was one of the f
 
 ## Legacy
 
-{% include figure.html class="right" width="48%" caption="Voyager II 1977. Source"image-path="essays/song-2/images/Voyager1.jpg" %}
+{% include figure.html class="right" width="48%" caption="Voyager II 1977. Source"image-path= "essays/song-2/images/Voyager1.jpg" %}
 
 This wordless gospel rendition was chosen by Carl Sagan and his team to be included on the Golden Record attached to the Voyager spacecraft in 1977, sent into the cosmos as an expression of human loneliness, suffering, and the resilience of the human spirit. O'Dell 
 
 
 
-
 > Dark Was The Night, Cold Was The Ground has made an imapct on history and truly recognizing human emotion and suffering without saying a word.
-
-
 
 ## Bibliography
 
