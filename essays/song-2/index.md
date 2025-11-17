@@ -79,7 +79,7 @@ presence.
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
 
 
-### Blues and Gospel
+## Blues and Gospel
 Blind Willie Johnson became a household name and a staple of rhythm and blues, 
 as well as rising to the forefront of Gospel Blues. The hit song “Dark was the Night, Cold 
 was the Ground” is composed of said elements heavily incorporated and is composed in a 
@@ -88,7 +88,7 @@ the Ground” is composed in reference to a hymn that dates to the 18th century,
 Blind Willie took reference.
 
 
-###Slide Guitar
+##Slide Guitar
 
 Blind Willie Johnson was known for his iconic and individualistic style of guitar playing, known as **slide guitar**. This style involves the player using one of their fingers to hold an object—often a **bottleneck or knife**—to slide along the neck of the guitar, altering the vibration pattern of the strings and creating a distinctive sound *(African American Registry, n.d.)*.
 
