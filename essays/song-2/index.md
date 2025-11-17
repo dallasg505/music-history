@@ -90,7 +90,9 @@ Blind Willie took reference.
 
 ###Slide Guitar
 
+Blind Willie Johnson was known for his iconic and individualistic style of guitar playing, known as **slide guitar**. This style involves the player using one of their fingers to hold an object—often a **bottleneck or knife**—to slide along the neck of the guitar, altering the vibration pattern of the strings and creating a distinctive sound *(African American Registry, n.d.)*.
 
+This technique was heavily used in **blues music**, and Johnson was one of the first to popularize it. In his earliest days as a **street performer**, he was said to have used a **pocketknife** as a slide *(Lornell, n.d.)*.
 
 
 ## Legacy
