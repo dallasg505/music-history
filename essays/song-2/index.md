@@ -98,7 +98,7 @@ This approach helped shape the fusion of blues and gospel as a vehicle for expre
 At the time, the song became a hit, its influence spreading widely. It became a **cultural artifact**, sung at **plantations, funerals, executions, and church services** *(Lornell, n.d.)*.  
 Given its profound impact on American music and culture, it remains one of the most notable pieces of early **Gospel Blues** *(Lornell, n.d.)*.
 
-{% include figure.html class="right" width="48%" caption="Blind Willie Johnson. Source" image-path“essays/song-2/images/Slide.JPG” %}
+{% include figure.html image="essays/song-2/images/slideguitar.JPG" class='right' width='48%' height='48%' %}
 
 
 ## Slide Guitar
