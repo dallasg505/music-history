@@ -72,8 +72,8 @@ slide guitar playing in the tuning Open D. As the song is not sung with words, i
 of religious lyricism is communicated through emotion, instrumentals, and vocal 
 presence. 
 
-{% include aside.html class="right" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+{% include aside.html class="right" text="Dark Was The Night, Cold Was The Ground has made an imapct on history and truly recognizing human emotion and suffering without saying a word.
+." %}
 
 
 ## Blues and Gospel
@@ -94,8 +94,7 @@ This approach helped shape the fusion of blues and gospel as a vehicle for expre
 
 At the time, the song became a hit, its influence spreading widely. It became a **cultural artifact**, sung at **plantations, funerals, executions, and church services** *(Lornell, n.d.)*.  
 Given its profound impact on American music and culture, it remains one of the most notable pieces of early **Gospel Blues** *(Lornell, n.d.)*.
-* Blind Willie Johnson. [Source](URL)*
-![Blind Willie Johnson Slide Guitar]（essays/song-2/images/slideguitar.JPG）
+
 
 ## Slide Guitar
 
@@ -111,8 +110,6 @@ This technique was heavily used in **blues music**, and Johnson was one of the f
 This wordless gospel rendition was chosen by Carl Sagan and his team to be included on the Golden Record attached to the Voyager spacecraft in 1977, sent into the cosmos as an expression of human loneliness, suffering, and the resilience of the human spirit. O'Dell 
 
 
-
-> Dark Was The Night, Cold Was The Ground has made an imapct on history and truly recognizing human emotion and suffering without saying a word.
 
 ## Bibliography
 
