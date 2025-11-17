@@ -105,7 +105,7 @@ This technique was heavily used in **blues music**, and Johnson was one of the f
 
 ## Legacy
 
-{% include figure.html class="right" width="48%" caption="Voyager II 1977. Source"image-path= essays/song-2/images/Voyager1.jpg" %}
+
 
 This wordless gospel rendition was chosen by Carl Sagan and his team to be included on the Golden Record attached to the Voyager spacecraft in 1977, sent into the cosmos as an expression of human loneliness, suffering, and the resilience of the human spirit. O'Dell 
 
