@@ -4,7 +4,7 @@ position: 2
 author: Dallas Grassbaugh, Ashlynn Luna, Isabella (Bella)Allred
 layout: base
 date: 2025-10-21
-thumbnail: ![alt text](essays/song-2/images/BWJ.jpg)
+thumbnail: essays/song-2/images/BWJ.jpg
 summary: Dark Was The Night, Cold Was The Ground By Blind Willie Johnson was a song of universal proportions. With no other song like it at its time this song expresses the pain and suffering humanity faces throughout their lives.
 header-image: essays/song-2/images/BWJ.jpg
 header-title: 
@@ -94,10 +94,8 @@ Blind Willie took reference.
 
 
 ## Legacy
-{
-{% include figure.html 
-class="right" 
-width="48%"caption="Voyager II 1977. Source" image-path="essays/song-2/images/voyager-1.jpg" %}
+
+{% include figure.html class="right" width="48%" caption="Voyager II 1977. Source" image-path="essays/song-2/images/voyager-1.jpg" %}
 
 This wordless gospel rendition was chosen by Carl Sagan and his team to be included on the Golden Record attached to the Voyager spacecraft in 1977, sent into the cosmos as an expression of human loneliness, suffering, and the resilience of the human spirit. O'Dell 
 
