@@ -37,7 +37,17 @@ What makes “Dark Was the Night, Cold Was the Ground” so profoundly moving is
 
 
 ## Historical Impact
-Dark Was the Night, Cold Was the Ground by Blind Willie Johnson was made in 1927. This was a time when a lot was happening in America. There were many historical events that helped shape this song. Some major influence rooted in the fact that some people were still feeling the effects of World War Many African Americans were moving to new cities looking for better lives. All of this made people feel lonely, sad, and try to find hope at the same time.
+*"Dark Was The Night, Cold Was The Ground"* by Blind Willie Johnson was made in **1927**. This was a time when a lot was happening in America. There were many historical events that helped shape this song. Some major influence rooted in the fact that some people were still feeling the effects of **World War I**, and many African Americans were moving to new cities looking for better lives. All of this made people feel lonely, sad, and try to find hope at the same time. You can almost hear their hopeful cries in this song.  
+
+This song was also shaped by **church music** and the traditions of African American communities, which makes it feel *deep* and gives it meaningful expression. Blind Willie Johnson’s song doesn’t have words, but his guitar and singing sound like he’s telling a story about **pain, hope, and faith**. The actual 1927 recording itself forces us to feel how people felt during that period. Johnson's slide guitar playing and humming voice express sadness and a kind of spiritual hope. This shows how hard the situation was for African Americans, like **racism and poverty**, especially those migrating to new cities — Johnson, 1927. The song almost sounds like the pain of those struggling to hold on to faith in those hard times.  
+
+Another source is **The Chicago Defender**, a newspaper published in the late 1920s that specifically addressed African American life. It discussed the racism, discrimination, and financial troubles African Americans faced at this time. For example, the Defender regularly reported on job discrimination and the struggle for civil rights, which contributes to why music such as Johnson's contained both suffering and hope — The Chicago Defender, 1928.  
+
+Talking about secondary sources, there is an article that describes how Blind Willie Johnson's music incorporates **blues with gospel traditions** and conveys both pain as well as spiritual hope. This source also describes how his style influenced other musicians in the future, showing the lasting impact of his work — Smith, 2019. Another source discusses how the song fits into the bigger picture of African American culture and religion during those hard times, and how it has been used in films and documentaries to express great emotion — Jones, 2020. Both of these sources help us understand why *"Dark Was the Night, Cold Was the Ground"* is so moving and significant.  
+
+## Historical Summary 
+
+In summary, *"Dark Was the Night, Cold Was the Ground"* really shows what people went through at that time. They experienced periods of **pain and loneliness**, but still held onto belief. Blind Willie Johnson's music doesn't need words to tell a story of suffering and faith. Listening to it with the historical context in mind allows you to connect with how powerful and meaningful this song is.
 
 {% include figure.html 
 class="right"
@@ -67,8 +77,6 @@ presence.
 {% include aside.html class="right" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
 
 ### Blues and Gospel
 Blind Willie Johnson became a household name and a staple of rhythm and blues, 
@@ -81,7 +89,7 @@ Blind Willie took reference.
 
 ###Slide Guitar
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+
 
 
 ## Legacy
@@ -94,20 +102,9 @@ This wordless gospel rendition was chosen by Carl Sagan and his team to be inclu
 
 
 
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
-
-
-
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
 
-
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
 
 ## Bibliography
