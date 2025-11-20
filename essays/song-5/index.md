@@ -1,12 +1,12 @@
 ---
-title: Song 5
+title: Blue Yodel No. 1 (T for Texas)
 position: 5
 author: Student Name
 layout: base
 date: 2025-10-21
-thumbnail: images/hot-notes-colors-5-blue.jpeg
-summary: Write the summary of your webpage here
-header-image: images/hot-notes-colors-5-blue.jpeg
+thumbnail: images/jimmie-rodgers-in-1921.jpg
+summary: Learn about Blue Yodel No 1 And Jimmie Rodgers
+header-image: images/record-blue-yodel.jpeg.jpg
 header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
@@ -17,80 +17,234 @@ tags:
     - campus
 ---
 
-# A Page for Group Five's Song
-This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
+# Blue Yodel No. 1 (T for Texas)
 
-Most of the text is just dummy text to keep the focus on the page elements.
+<iframe width="949" height="707" src="https://www.youtube.com/embed/qEIBmGZxAhg" title="Jimmie Rodgers - Blue Yodel No 1 (T For Texas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lyrics
+
+“[Verse 1]
+T for Texas, T for Tennessee
+T for Texas, T for Tennessee
+T for Thelma, that gal that made a wreck out of me
+
+[Refrain]
+Oh-del-lay-ee oh, lay-ee eh, lay-ee
 
 
-## Second heading
-{% include figure.html 
-class="right" 
-width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" 
-image-path="images/mvh-history-stays.jpg" 
-%}
+[Verse 2]
+If you don't want me mama, you sure don't have to stall, oh Lord
+If you don't want me mama, you sure don't have to stall
+'Cause I can get more women than a passenger train can haul
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
+
+[Refrain]
+Oh-del-lay-ee oh, lay-ee eh, lay-ee
+
+[Verse 3]
+I'm gonna buy me a pistol just as long as I'm tall, Lord Lord
+I'm gonna buy me a pistol just as long as I'm tall
+I'm gonna shoot poor Thelma just to see her jump and fall
+
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+
+[Verse 4]
+I'm goin' where the water drinks like cherry wine, sing 'em boy sing 'em
+Lord I'm goin' where the water drinks like cherry wine
+'Cause this Georgia water tastes like turpentine
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+
+[Verse 5]
+I'm gonna buy me a shotgun with a great long shiny barrel
+Gonna buy me a shotgun with a great long shiny barrel
+I'm gonna shoot that rounder that stole away my gal
+
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+
+[Verse 6]
+Rather drink muddy water sleep in a holler log
+Rather drink muddy water sleep in a holler log
+Than to be in Atlanta treated like a dirty dog
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+.[^1]
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
-## Donec odio elit
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+## About the song
+The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics (Atkins, John. 2010.)
 
+  Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee.
+  
+In the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with.
 
-## Cras magna nunc
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+From the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
 
-{% include aside.html class="right" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+The words in this song that during the time period would make sense are harder to understand today which decreases the punch of the double entendre that is used throughout the song
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
 
+“water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
 
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+“I'm gonna buy me a pistol just as long as I'm tall” is a way to express his bravado and is an over exaggeration to show that the narrator is not thinking clearly which is supported by deciding to escape to two different states in different directions.
 
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-
-## Duis vehicula erat et diam
-{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
-
-
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+“Rather drink muddy water sleep in a holler log” shows he does not have a plan to get to a different state and is currently in a fit of rage and is unlikely to have any survival skills whatsoever. 
 
 
 
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
 
 
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
+
+
+## Who is Jimmie Rodgers
+{% include figure.html class="middle" width="60%" caption="" image-path="images/jimmie-rodgers-in-1921.jpg" %}
+
+
+ James Charles Rodgers, or also known as Jimmie Rodgers was a famous country and blues singer, as well as being the popular singer of the song T for Texas. He was born in 1897 in Meridian, Mississippi, he stayed there up until the death of his mother four years later. Jimmie Rodger's Father was left alone with a child as he worked as a foreman, because of his father's work, Jimmie Rodgers got exposed to the very thing that would make him famous!
+
+ You see, 10 years after his mother's dead, Jimmie dropped school and instead worked with his father in the rail roads. His job was to carry water for the African American workers, while he would work, "They taught him the guitar and the banjo. They taught him work songs, field hollers, chants" (Blue Yodeler: Jimmie Rodgers, Bland Simpson, Volume 12, 2006)
+
+When Jimmie returned to Meridian, he met a woman!
+
+A few years later, he and his wife had two young girls, Carrie Anita and June. Unfortunately, In December of 1923, June had died from, money was tight, he had a failed project, a failed marriage and a funeral to plan, with very little choice, Jimmie Rodgers was forced to go back to the railroads as a worker. While hard at work, Jimmie ended up in Colorado and Utah, where he seemed to not be able to catch a break, for you see, he ended up catching Tuberculous...the doctor said that he will need to quit his railroad work for good.  
+
+ Once he recovered, Jimmie and his sister-in-law would do public performances to try and gather some cash, however, this life bored him. Instead, he set off on his own, creating his own kind of yodel, the blue yodel. After this, Jimmie rogers' popularity skyrocketed! Even during the Stock Market crash in 1929, people couldn't get enough of him! 
+
+In 1931, there was a drought that affected him greatly. It started with a few coughs but eventually turned violent fits of Tuberculosis. His song releases dropped, as well as his health. Eventually he died in 1933.                      
+
+
+
+
+## What's the deal with the yodel?
+
+You may be wondering what is with the yodel Jimmie Rodgers performs between the stanzas of
+his songs, this was a defining piece of his work. We have to first understand where this yodeling
+came from, the yodeling heard in his songs originates from slaves vocalizing the similar yodels
+on and off the plantation during their capture (Scarborough and Gulledge, 1925, 226).
+
+This unique type of yodeling is what Jimmie Rodgers incorporated into his songs and was known as
+a “blues yodel”, but since he was a country singer, the blend of these genres made him famous
+and a pioneer of the new subgenre.
+
+It had now become his trademark; you could hear his yodel
+in nearly every one of his songs (Wise 2010, 6-12, 33-39). In his songs it's used to transition
+from stanza to stanza to keep the rhythm of the song going while adding emotional weight each
+time he performed it, but people didn’t just see this as a means of transitioning in the song but
+rather the main signature of the artist and what gave the song character (Seward Daily Gateway
+1928). 
+
+Jimmie Rodgers’ songs are particularly unique because of this element and some could
+argue he was as big as he was because of how unrepeatable and unique he made his songs
+with this new aspect he assimilated within country music. Though we may not hear this style as
+much today, Jimmie Rodgers’ yodel revolutionized country music and has left a lasting effect on
+the genre.
+
+
+## History of the song
+The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music but our song has a humble beginning with the first recording session starting in a warehouse the blue yodel was originally used to pad extra space as fluff for the album with other songs that were recorded when they were still blues songs and when the name was needed for the records it was come up with on the spot so it was simply “Blue Yodel” and once the song became popular following songs followed the naming convention and Blue Yodel became Blue Yodel No 1. (West!, Bluegrass. 2003.)
+
+
+## History Of Country Music
+Jimmie Rodgers was a pioneer of country music, but what is country music and where did
+it come from? It was the late 19th century with the invention of the phonograph when
+music really shifted from being a group leisure activity to an individual leisure activity.
+People could now choose what they wanted to listen to and could even record music with
+it. Before the invention there were symphonies and orchestras but these were primarily
+leisure for the really wealthy. The phonograph made music accessible to the middle and
+working class not only to listen but to record as well (Thompson 2016). This level of
+accessibility allowed people like Jimmie Rodgers, a working man, to now access a means
+of expressing his thoughts and ideas (White 1955, 146-147). This leads us into the Bristol
+Sessions, a makeshift recording studio made by Victor Talking Machine Company in a hat
+factory to hopefully get talent for Victor Records. One of the people they had hosted was
+the country music catalyst himself, Jimmie Rodgers. He was one of the very first country
+music artists there was. Country music was being defined by instruments like fiddles and
+banjos and other elements like traditional ballads, gospel music, vaudeville songs, rustic
+comedy and instrumental showcases. Victor Talking Machine Company was able to
+record and host these musicians because of the phonograph (Olson 2025, 262-265). Due
+to the invention of the phonograph and the Bristol Sessions, what we now know as
+country music.
+
+
+## How the world Responded
+"How did the world react to Jimmie Rodgers songs"
+
+ 
+
+ "Mrs. Jimmie Rodgers, widow of the singer brakeman who became a national phenomenon and who died here last year..." writes The San Antonio Light Newspaper on October 22, in 1934. "His health broke down completely and he had to quit. All agreed that it was pretty tough for Jimmie...a lot of friends but no job and not enough strength to get and keep one. But Jimmie still wore the same old smile." was said in 1934, October 22nd by others at Steward daily getaway newspaper. 
+
+   When the world heard the name, Jimmie Rodger's, they thought of resilience, they thought of joy through and through. They thought of the strong hearted man who wrote songs about love and loss. On October 20th, 1957, Jimmie Rodger's song "Honeycomb" was ranked 4th most popular disk jockey in Washington D.C (Evening Star, 1957, Image 107), mind you, this was 24 years after his death. His hits were so popular, that even today, you can find songs of his on Spotify, his listener's count being over 55 thousand people monthly.
+   
+
+{% include figure.html class="right" width="60%" caption="Jimmie Rodgers on Spotify. [Source](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN)" image-path="images/spotify-jimmie.jpeg.jpg" %}
+
+   Looking at Spotify still, we can see that out of all of Jimmie Rodgers albums, Honeycomb is not second, the first spot being taken over by Kisses Sweet than Wine, written by Campbell and Ray Gilbert! Although he isn't a top hit today, the fact that his songs are still relevant to this day is absolutely stunning! 
+
+ Although not directly Jimme Rodgers, the Bristol Sessions, which Jimmie was a part of, is facing some backlash. "...Sustained focus on the 1927 Bristol sessions..." which had appeared to "...neglect of other early “hillbilly” music stories" according to Ted Olson of the National Recording Registry in 2002! The Bristol sessions were a series of recordings done in 1927.
+
+Still, Rodgers has been a called a national phenomenon and considered still, one of the founder fathers, if not,                                                                                                THE father of country music. 
+
 
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+ Rodgers, Carrie (1935). My Husband, Jimmie Rodgers. Ernest Tubb Publications.
+ 
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+ West!, Bluegrass. 2003. “Ralph Peer Remembers Jimmie Rodgers.” Peermusic - The Independent Major. 2003. 
+ [Source](https://web.archive.org/web/20080520132406/http://www.peermusic.com/news/press_detail.cfm?announcement_id=273&back=news. )"
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+ Wise, Timothy. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. 2010.  [Source](https://research.ebsco.com/c/kov46v/viewer/pdf/glmvvioumn.)"
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v.  [Source](https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. ))"
+
+Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. [Source](https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v.)"
+
+Gioia, Joe. 2014. The Guitar and the New World: A Fugitive History. Albany: SUNY Press. 
+
+Daktar, Abraxas01. n.d. “Jimmie Rodgers – Blue Yodel No. 1 (T for Texas) Lyrics | Genius Lyrics.” Blue Yodel No. 1 (T for Texas) Lyrics. Accessed October 29, 2025.   [Source](https://genius.com/Jimmie-rodgers-blue-yodel-no-1-t-for-texas-lyrics.)"
+
+Scarborough, Dorothy, and Ola Lee Gulledge. On the Trail of Negro Folk-Songs. Harvard
+University Press, 1925  [Source](https://archive.org/details/ontrailofnegrofo00scar/page/226/mode/2up?q=yodel)"
+
+Wise, Timothy. Jimmie Rodgers and the Semiosis of the Hillbilly Yodel. Musical Quarterly 93 (1):
+6–44, 2010.  [Source](https://doi.org/10.1093/musqtl/gdp030)"
+
+Seward Daily Gateway. Singing Breakman Is Now An Exclusive and Popular Victor Artist.
+(Seward, AK), Jun. 21 1928. [Source](https://www.loc.gov/item/sn87062169/1928-06-21/ed-1/.)"
+
+Mike, ed. “Jimmie Rodgers - Waiting for a Train/Daddy andHome/BlueYodel.” YouTube,
+2007. [Source](https://www.youtube.com/watch?v=iyHulWOZBpk.  )"
+
+Thompson, Clive. “How the Phonograph Changed Music Forever.” Smithsonian
+Magazine, January 2016 How the Phonograph Changed Music Forever
+
+White, Clyde. “Social Class Differences in the Uses of Leisure” American Journal of
+Sociology, Vol 61. No. 2 (1955): 146-147 Social Class Differences in the Uses of Leisure
+on JSTOR
+
+Olson, T. “The 1927 Bristol Sessions: The Big Bang, or the Big Brag, of Country Music?”
+Appalachian Journal, Vol 42. No 3 (2025): 262–283
+ [Source](https://doi.org/10.1353/apl.2015.a955913 )"
+
+   Project MUSE - Blue Yodeler: Jimmie Rodgers Links to an external site. - by Bland Simpson Volume 12, 2006 (S)
+
+   Meeting Jimmie Rodgers: How America's Original Roots Music Hero Changed the Pop Sounds of a Century - EBSCO Links to an external site. - Barry Mazor, 2011 (S)
+
+  Jimmie Rodgers: The Life and Times of America's Blue Yodeler Links to an external site. - Nolan Porterfield, Volume 125, 2012 (S)
+
+Victor Talking Machine Company sessions in Bristol, Tennessee Links to an external site. - by Ted Olson, Recording Registry: 2002 (P)
+
+Image 107 of Evening star Links to an external site. - Evening Star, Newspaper, October 20, 1957 (P)
+
+Image 7 of Steward daily Links to an external site. - Steward daily getaway, Newspaper, October 22, 1934 (P)
+
+Image 11 of San Antonio Light Links to an external site. - The San Antonio Light, Newspaper, October 22, 1934 (P)

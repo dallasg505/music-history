@@ -1,5 +1,4 @@
 baseurl: /music-history/
-repository: dallasg505/music-history
 defaults:
   - scope:
       path: ""
